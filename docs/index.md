@@ -1,3 +1,8 @@
+---
+title: "Product Leadership Course Free: Lead Product Teams"
+description: "Free product leadership course for leading product teams -- real frameworks, templates, and a team charter project. Part of a 37-course free library."
+---
+
 # Product Lead Mastery Path
 
 A structured, module-wise training program for **leading product teams** —
