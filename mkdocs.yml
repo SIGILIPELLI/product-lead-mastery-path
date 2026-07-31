@@ -62,39 +62,8 @@ nav:
       - "08 · Basic Org Design for Product Teams": level-1/08-basic-org-design.md
       - "09 · Hiring PMs Basics": level-1/09-hiring-pms-basics.md
       - "10 · Project — Product Team Charter & Rituals Plan": level-1/10-project-team-charter.md
-  - "Level 2 · Intermediate":
-      - Overview: level-2/index.md
-      - "01 · Advanced Product Team Leadership": level-2/01-advanced-team-leadership.md
-      - "02 · Managing Multiple Product Squads": level-2/02-managing-multiple-squads.md
-      - "03 · Performance Management for PMs": level-2/03-performance-management.md
-      - "04 · Cross-Functional Leadership": level-2/04-cross-functional-leadership.md
-      - "05 · Product Strategy Cascading": level-2/05-strategy-cascading.md
-      - "06 · Advanced Hiring & Interviewing for Product": level-2/06-advanced-hiring-interviewing.md
-      - "07 · Coaching PMs on Discovery & Delivery": level-2/07-coaching-discovery-delivery.md
-      - "08 · Managing Up": level-2/08-managing-up.md
-      - "09 · Budget & Resourcing for Product Teams": level-2/09-budget-resourcing.md
-      - "10 · Project — Hiring & Team-Scaling Plan": level-2/10-project-hiring-scaling-plan.md
-  - "Level 3 · Advanced":
-      - Overview: level-3/index.md
-      - "01 · Leading Product Leads (Head of Product)": level-3/01-leading-product-leads.md
-      - "02 · Multi-Product Portfolio Leadership": level-3/02-multi-product-portfolio.md
-      - "03 · Org Design at Scale": level-3/03-org-design-at-scale.md
-      - "04 · Building Product Career Ladders": level-3/04-product-career-ladders.md
-      - "05 · Advanced Executive Communication": level-3/05-executive-communication.md
-      - "06 · Product Culture & Rituals at Scale": level-3/06-product-culture-at-scale.md
-      - "07 · M&A Integration for Product Orgs": level-3/07-ma-integration.md
-      - "08 · Platform vs Product Team Structures": level-3/08-platform-vs-product-structures.md
-      - "09 · Advanced Stakeholder Management (Board-Level)": level-3/09-board-level-stakeholder-management.md
-      - "10 · Project — Org Design for a 20+ Person Product Org": level-3/10-project-org-design.md
-  - "Level 4 · Master":
-      - Overview: level-4/index.md
-      - "01 · VP/CPO-Level Strategy": level-4/01-vp-cpo-strategy.md
-      - "02 · Building Product Organizations from Scratch": level-4/02-building-orgs-from-scratch.md
-      - "03 · Product Leadership in Turnarounds": level-4/03-leadership-in-turnarounds.md
-      - "04 · Board & Investor Relations for Product": level-4/04-board-investor-relations.md
-      - "05 · Building Product Leadership Pipelines": level-4/05-leadership-pipelines.md
-      - "06 · Global Product Org Leadership": level-4/06-global-product-org-leadership.md
-      - "07 · AI-Native Product Organization Design": level-4/07-ai-native-org-design.md
-      - "08 · Legacy: Building Enduring Product Cultures": level-4/08-enduring-product-cultures.md
-      - "09 · Career Growth: CPO and Beyond": level-4/09-career-growth-cpo-and-beyond.md
-      - "10 · Capstone — Full CPO-Level Strategy Document": level-4/10-capstone-cpo-strategy.md
+# --- auto-pruned stub levels (see AdSense low-value-content fix) ---
+exclude_docs: |
+  level-2/*.md
+  level-3/*.md
+  level-4/*.md

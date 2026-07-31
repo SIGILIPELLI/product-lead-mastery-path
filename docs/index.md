@@ -24,9 +24,9 @@ hands-on deliverable at the end of each level.
 | Level | Focus | Modules |
 |-------|-------|---------|
 | [Level 1 · Entry](level-1/index.md) | Making the jump from IC PM to leading a team | 9 topics + 1 project |
-| [Level 2 · Intermediate](level-2/index.md) | Leading multiple squads, hiring, coaching, managing up | 9 topics + 1 project |
-| [Level 3 · Advanced](level-3/index.md) | Head of Product: portfolios, org design, board communication | 9 topics + 1 project |
-| [Level 4 · Master](level-4/index.md) | VP/CPO-level strategy, org-building, and legacy | 9 topics + 1 capstone |
+| Level 2 · Intermediate (coming soon) | Leading multiple squads, hiring, coaching, managing up | 9 topics + 1 project |
+| Level 3 · Advanced (coming soon) | Head of Product: portfolios, org design, board communication | 9 topics + 1 project |
+| Level 4 · Master (coming soon) | VP/CPO-level strategy, org-building, and legacy | 9 topics + 1 capstone |
 
 ## How to use this site
 
