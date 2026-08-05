@@ -62,8 +62,19 @@ nav:
       - "08 · Basic Org Design for Product Teams": level-1/08-basic-org-design.md
       - "09 · Hiring PMs Basics": level-1/09-hiring-pms-basics.md
       - "10 · Project — Product Team Charter & Rituals Plan": level-1/10-project-team-charter.md
+  - "Level 2 · Intermediate":
+      - Overview: level-2/index.md
+      - "Advanced Product Team Leadership": level-2/01-advanced-team-leadership.md
+      - "Managing Multiple Product Squads": level-2/02-managing-multiple-squads.md
+      - "Performance Management for PMs": level-2/03-performance-management.md
+      - "Cross-Functional Leadership": level-2/04-cross-functional-leadership.md
+      - "Product Strategy Cascading": level-2/05-strategy-cascading.md
+      - "Advanced Hiring & Interviewing for Product": level-2/06-advanced-hiring-interviewing.md
+      - "Coaching PMs on Discovery & Delivery": level-2/07-coaching-discovery-delivery.md
+      - "Managing Up": level-2/08-managing-up.md
+      - "Budget & Resourcing for Product Teams": level-2/09-budget-resourcing.md
+      - "Project — Hiring & Team-Scaling Plan": level-2/10-project-hiring-scaling-plan.md
 # --- auto-pruned stub levels (see AdSense low-value-content fix) ---
 exclude_docs: |
-  level-2/*.md
   level-3/*.md
   level-4/*.md
