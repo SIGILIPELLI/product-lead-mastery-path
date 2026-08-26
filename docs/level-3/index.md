@@ -14,8 +14,3 @@ Goal: step into the Head of Product role — lead other Product Leads rather tha
 8. [Platform vs Product Team Structures](08-platform-vs-product-structures.md)
 9. [Advanced Stakeholder Management (Board-Level)](09-board-level-stakeholder-management.md)
 10. [Project — Org Design for a 20+ Person Product Org](10-project-org-design.md)
-
-!!! info "Content status"
-    Level 3 module content is being written — every page below has its
-    scope defined and will be filled in next. [Level 1](../level-1/index.md)
-    is complete and is the prerequisite for everything here.
