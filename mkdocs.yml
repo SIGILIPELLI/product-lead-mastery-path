@@ -74,7 +74,27 @@ nav:
       - "Managing Up": level-2/08-managing-up.md
       - "Budget & Resourcing for Product Teams": level-2/09-budget-resourcing.md
       - "Project — Hiring & Team-Scaling Plan": level-2/10-project-hiring-scaling-plan.md
-# --- auto-pruned stub levels (see AdSense low-value-content fix) ---
-exclude_docs: |
-  level-3/*.md
-  level-4/*.md
+  - "Level 3 · Advanced":
+      - Overview: level-3/index.md
+      - "Leading Product Leads (the Head of Product Role)": level-3/01-leading-product-leads.md
+      - "Multi-Product Portfolio Leadership": level-3/02-multi-product-portfolio.md
+      - "Org Design at Scale": level-3/03-org-design-at-scale.md
+      - "Building Product Career Ladders": level-3/04-product-career-ladders.md
+      - "Advanced Executive Communication": level-3/05-executive-communication.md
+      - "Product Culture & Rituals at Scale": level-3/06-product-culture-at-scale.md
+      - "M&A Integration for Product Orgs": level-3/07-ma-integration.md
+      - "Platform vs Product Team Structures": level-3/08-platform-vs-product-structures.md
+      - "Advanced Stakeholder Management (Board-Level)": level-3/09-board-level-stakeholder-management.md
+      - "Project — Org Design for a 20+ Person Product Org": level-3/10-project-org-design.md
+  - "Level 4 · Master":
+      - Overview: level-4/index.md
+      - "VP/CPO-Level Strategy": level-4/01-vp-cpo-strategy.md
+      - "Building Product Organizations from Scratch": level-4/02-building-orgs-from-scratch.md
+      - "Product Leadership in Turnarounds": level-4/03-leadership-in-turnarounds.md
+      - "Board & Investor Relations for Product": level-4/04-board-investor-relations.md
+      - "Building Product Leadership Pipelines": level-4/05-leadership-pipelines.md
+      - "Global Product Org Leadership": level-4/06-global-product-org-leadership.md
+      - "AI-Native Product Organization Design": level-4/07-ai-native-org-design.md
+      - "Legacy: Building Enduring Product Cultures": level-4/08-enduring-product-cultures.md
+      - "Career Growth: CPO and Beyond": level-4/09-career-growth-cpo-and-beyond.md
+      - "Capstone — Full CPO-Level Strategy Document": level-4/10-capstone-cpo-strategy.md
