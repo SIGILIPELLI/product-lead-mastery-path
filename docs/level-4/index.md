@@ -14,8 +14,3 @@ Goal: operate at VP/CPO level — set company-wide product strategy, build produ
 8. [Legacy: Building Enduring Product Cultures](08-enduring-product-cultures.md)
 9. [Career Growth: CPO and Beyond](09-career-growth-cpo-and-beyond.md)
 10. [Capstone — Full CPO-Level Strategy Document](10-capstone-cpo-strategy.md)
-
-!!! info "Content status"
-    Level 4 module content is being written — every page below has its
-    scope defined and will be filled in next. [Level 1](../level-1/index.md)
-    is complete and is the prerequisite for everything here.
