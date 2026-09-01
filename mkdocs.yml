@@ -1,8 +1,8 @@
 site_name: Product Lead Mastery Path
 site_description: A structured, module-wise product leadership training program from entry level to master level.
-site_url: https://sigilipelli.github.io/product-lead-skillmastery/
-repo_url: https://github.com/SIGILIPELLI/product-lead-skillmastery
-repo_name: product-lead-skillmastery
+site_url: https://sigilipelli.github.io/product-lead-mastery-path/
+repo_url: https://github.com/SIGILIPELLI/product-lead-mastery-path
+repo_name: product-lead-mastery-path
 
 theme:
   name: material
