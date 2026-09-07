@@ -157,6 +157,27 @@ is a ritual, not a bar.
 | Verbal offer, no document for a week | Written within 24 hours |
 | Never revisiting the scorecard | Review it at 90 days against actual performance |
 
+## How It Actually Works
+
+At the Product Lead hiring stage, the biggest source of bad hires isn't
+weak candidates, it's structural: the hiring manager is often the most
+time-constrained person in the loop and therefore the most likely to
+shortcut the process — skipping reference checks that would surface a
+pattern, or overriding a panel's split verdict with their own gut call
+because the role has been open too long and the pressure to fill it is
+compounding. The mechanism that catches senior mis-hires before they
+happen is making the cost of a bad hire *visible and attributed* at
+decision time, not just after the fact — a structured reference-check
+script that specifically probes for what happens under this candidate's
+management during a bad quarter (not "would you hire them again," which
+almost everyone answers politely), and a rule that a split panel verdict
+triggers one more structured conversation rather than a unilateral
+override by whoever's most eager to close the req. Senior hiring failures
+are disproportionately failures of process compliance under time pressure,
+not failures of interview technique — the interview questions were usually
+fine; the shortcut taken when the pipeline felt slow is what let the
+mismatch through.
+
 ## Exercise
 
 Pick a real open role, or the next PM you'd hire if you got headcount.

@@ -94,6 +94,27 @@ should spend most of its time one layer up:
 | "What did the customer say?" | "Where are your PMs making calls you'd have made differently, and did you let them?" |
 | "What's the risk to the deadline?" | "What decision are you avoiding making yourself?" |
 
+## How It Actually Works
+
+Managing managers changes the fundamental unit of your own leverage: your
+output is no longer measured by decisions you personally make but by the
+quality of decisions made two organizational layers below you, by people
+you may talk to only every other week. That distance means your primary
+tool shifts from direct coaching to *calibrating the calibrators* — making
+sure each Product Lead you manage is giving their own PMs feedback that's
+consistent with the org's actual bar, because if you only check the Product
+Leads' own performance and never sample how they're managing their PMs,
+inconsistency compounds invisibly two layers down and you find out only
+when a PM quits citing a manager problem you never saw coming. The
+mechanism that catches this early is deliberately sampling below your
+direct reports — a periodic skip-level conversation, a look at how a
+Product Lead ran their own team's calibration — not to override their
+authority but because at this altitude, the natural information flow
+upward gets progressively filtered and flattering at each layer, and
+without a countervailing sampling mechanism, a Head of Product's picture of
+org health is systematically two quarters stale by the time a real problem
+surfaces through normal channels.
+
 ## Exercise
 
 Pick a Product Lead (or, if you don't yet manage Leads, a senior PM you

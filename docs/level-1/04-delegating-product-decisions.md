@@ -59,6 +59,29 @@ teaching the delegation.
 | You're surprised by a decision after the fact, and it was costly | Over-delegating a decision that needed Consult | Move that decision type up one level |
 | A PM says "I didn't know I could just decide that" | Delegation happened in your head, not out loud | Write it down; delegation isn't real until it's explicit |
 
+## How It Actually Works
+
+Delegation fails or succeeds based on a single design choice most leads
+never make explicit: what happens when the PM gets it wrong. If a wrong
+call from a PM results in the lead quietly fixing it and saying nothing,
+the PM never learns where their judgment miscalibrated, and the lead
+learns (incorrectly) that this PM "can't be trusted" with that decision
+type — so the lead delegates less next time, not more. If a wrong call
+results in visible blame in front of stakeholders, the PM starts
+escalating everything preemptively to avoid being wrong alone, which
+collapses delegation from the other direction. The mechanism that actually
+builds delegation capacity is a *safe-to-fail* boundary: decisions are
+explicitly bucketed (by reversibility and blast radius) into "just do it,"
+"do it and tell me," and "check with me first" — and the lead commits, in
+front of the team, not to relitigate a wrong call that fell in the first
+two buckets. That commitment is what makes PMs actually take the decisions
+rather than performatively taking them while still shadow-checking with the
+lead. Without it, "I've delegated this" and "the PM still runs everything by
+me first" look identical in a status meeting but are completely different
+in practice — the tell is whether the PM's Slack messages to the lead are
+informational ("here's what I decided") or permission-seeking ("is this
+okay?").
+
 ## Exercise
 
 Build a decision-rights map (using the template above) for a team of 3 PMs —

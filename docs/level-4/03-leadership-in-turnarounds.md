@@ -89,6 +89,27 @@ disproportionately from paused/speculative work instead, and states this
 tradeoff explicitly in her communication to the org rather than letting
 people infer favoritism.
 
+## How It Actually Works
+
+Turnarounds run on a trust deficit that ordinary leadership doesn't have to
+overcome: a team that's been through a failing period has already learned
+(through direct experience) that promises from leadership don't reliably
+translate into outcomes, so the standard leadership tools — vision
+statements, motivational communication — land with far less force than
+they would in a healthy org, because the team is pattern-matching new
+promises against a recent history of broken ones. The mechanism that
+actually rebuilds trust in a turnaround is *small, kept commitments made
+visibly and quickly* — a leader who promises something modest and delivers
+it exactly on time earns disproportionate credibility precisely because
+the team's calibrated expectation was that it wouldn't happen, and each
+kept small promise recalibrates that expectation faster than any single
+large promise could, because a large promise takes too long to resolve and
+gives cynicism time to regrow before the proof arrives. Turnaround leaders
+who start with a bold, comprehensive vision before re-earning any
+credibility at all are making the classic mistake of applying healthy-org
+tools to a low-trust environment where those tools don't yet have
+purchase.
+
 ## Exercise
 
 Imagine (or recall) a scenario where your team or org must cut capacity by

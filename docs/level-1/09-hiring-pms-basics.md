@@ -66,6 +66,28 @@ average score.
 | Vague on what metric they'd use to measure success | Hasn't actually driven outcomes, or can't articulate how |
 | Asks no questions about the team or role | Possible lack of genuine interest, or under-preparation |
 
+## How It Actually Works
+
+Hiring pipelines that produce consistently good PMs share one mechanical
+trait: every interviewer is evaluating a *different, pre-assigned* signal
+and is blind to how other interviewers scored, because the alternative —
+everyone loosely evaluating "is this person good" — collapses into halo
+effect, where one strong or weak moment (a confident answer, an awkward
+pause) colors every other rating that interviewer gives, and a debrief that
+starts with someone confidently saying "I loved them" anchors the whole
+room before anyone else speaks. The debrief itself is where most hiring
+processes actually fail, not the interviews: without a rule that every
+interviewer states their independent score before hearing anyone else's,
+the loudest or most senior voice in the room becomes the effective hiring
+bar, and the interview panel's diversity of judgment gets thrown away for
+free. The other silent failure mode is asymmetric cost perception —
+a false negative (rejecting a good PM) is invisible and has no name
+attached to it, while a false positive (hiring a bad PM) is visible and
+attributable to whoever championed them, so panels that don't actively
+correct for this bias drift toward false-negative-heavy, overly
+conservative hiring that quietly starves the team of otherwise-strong
+candidates who didn't interview perfectly.
+
 ## Exercise
 
 Write a one-page role scorecard (using the template above) for a PM role you

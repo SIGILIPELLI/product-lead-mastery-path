@@ -78,6 +78,26 @@ scale past her calendar. The fix is redundancy:
 | Reinforced in review | Career ladder evidence packets (Module 4) include a culture-fit section with specifics |
 | Protected under pressure | Leadership doesn't quietly waive rituals during crunch — that's when they matter most |
 
+## How It Actually Works
+
+Culture at scale isn't transmitted by values statements, it's transmitted
+by which behaviors get *visibly rewarded or visibly tolerated* in the
+specific moments people are watching — a promotion, a public
+acknowledgment, or notably, which mediocre performer never gets a
+consequence for months. Every one of those moments is a data point the
+whole org uses to infer what's actually valued, and inferred values from
+observed incidents beat stated values from a slide deck every time they
+conflict, because people trust revealed preference over declared
+preference. This is why culture erodes fastest at the exact moment a
+company scales past the founder's direct visibility: the founder's
+personal behavior used to be the culture's live enforcement mechanism
+(everyone could see how the founder reacted to a shortcut), and once most
+employees never interact with the founder directly, that enforcement
+signal has to be deliberately rebuilt through middle management's visible
+choices, or the org's actual, revealed culture quietly diverges from the
+stated one, deal by deal, promotion by promotion, without any single
+moment where the divergence looked like a decision.
+
 ## Exercise
 
 List the three rituals your team or org currently runs (formally or

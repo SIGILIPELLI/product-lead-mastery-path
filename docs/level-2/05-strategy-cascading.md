@@ -154,6 +154,26 @@ concentrated in accounts whose first month included an integration failure
 | Cascade "communicated" via all-hands | Test it with the retell test on someone who wasn't in the room |
 | Raw team noise sent upward | Frame upward signals as evidence plus a proposed decision |
 
+## How It Actually Works
+
+Strategy cascades lose fidelity at every layer of translation for the same
+reason a rumor changes in a game of telephone: each manager translating the
+strategy downward adds their own interpretation to fill gaps the original
+strategy didn't specify, and that interpretation compounds across layers
+until a PM three levels down is executing against a "strategy" that's
+actually the fourth-generation copy of the original intent, distorted by
+three well-meaning but imperfect retellings. The mechanism that limits this
+decay is keeping the *reasoning*, not just the conclusion, attached to the
+strategy as it moves down — a roadmap bullet point compresses to nothing
+useful two levels down, but "we're betting on enterprise because SMB churn
+data shows X" survives translation because each layer can re-derive the
+right local decision from the same reasoning even without a manager
+spelling out every implication. Cascades that fail are usually cascades of
+conclusions ("do X"); cascades that survive are cascades of reasoning
+("here's why, so here's how to reason about your own version of X"),
+because reasoning re-derives correctly under local context in a way a
+flat instruction can't.
+
 ## Exercise
 
 Take your real company strategy (or a realistic one) and 3-4 squads.

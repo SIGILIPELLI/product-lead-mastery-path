@@ -62,6 +62,26 @@ one users see.
 | A launch slips because another squad's piece wasn't ready | Dependency wasn't tracked/flagged early | Add it to the dependency log at planning, not after |
 | Two squads are quietly working against each other's metrics | Conflicting incentives, not a communication problem | Resolve the trade-off explicitly at the Lead level |
 
+## How It Actually Works
+
+Misalignment between teams isn't usually a communication failure in the
+"people didn't talk" sense — it's an information-topology problem: each
+team optimizes locally against the metric it's held to, and those metrics
+were set independently by different leads at different times, so two teams
+can each be doing exactly what their own incentives reward while working
+directly against each other (growth team ships a viral loop that spikes
+support tickets the support-adjacent team gets penalized for). Alignment
+meetings only fix this if they surface the *conflicting incentive*, not
+just the conflicting roadmap item — a meeting that resolves "let's
+coordinate the launch dates" without touching "and let's agree whose metric
+takes the hit" will recreate the same conflict next quarter under a
+different feature name. The leads who get cross-team alignment right treat
+it as an ongoing incentive-reconciliation job, not a one-time roadmap sync:
+they actively hunt for places where two teams' OKRs can be satisfied by
+actions that damage a third team, and they escalate those conflicts to
+whoever owns both metrics before the teams find out about them the hard
+way, in production.
+
 ## Exercise
 
 For a team of 2-3 squads (real or hypothetical), build a dependency log with

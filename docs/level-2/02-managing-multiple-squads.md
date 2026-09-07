@@ -128,6 +128,25 @@ open dependency decisions only, and attendance recovers without a mandate.
 | You're 55% on your favourite squad | You are, and you know it — rebalance with a written rationale |
 | A heavy coaching push has no end date | Set one now, or it becomes your permanent job |
 
+## How It Actually Works
+
+Running several squads at once creates a resource-contention problem that
+doesn't show up on any single squad's roadmap: a shared backend team, a
+design resource, or the lead's own attention becomes a scarce input that
+each squad's PM will privately over-request, because none of them can see
+the others' requests and each is individually incentivized to secure as
+much shared capacity as possible for their own roadmap. Left unmanaged,
+this produces the classic symptom of "everyone says they're blocked on the
+same shared team" — not because that team is actually understaffed
+relative to total real need, but because demand is inflated by squads
+hedging against getting shorted. The fix isn't more shared headcount, it's
+making the allocation visible and centrally arbitrated: a lead who runs a
+single prioritized queue across squads for shared resources, updated in a
+place all PMs can see, removes the incentive to over-request because
+sandbagging no longer helps a squad get more — it's now competing on the
+actual merit of the ask against a queue everyone can audit, not on how
+loudly or early they claimed the resource.
+
 ## Exercise
 
 Build the portfolio table for your own squads (or a realistic set of 3-4).

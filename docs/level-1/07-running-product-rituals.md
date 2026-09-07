@@ -52,6 +52,26 @@ the same day.
 | Catching cross-squad collisions | The alignment sync (Module 5) — not folding it into standup, where it gets rushed |
 | Team learning/retrospection | A dedicated retro with a written output — not an unstructured "how's everyone doing" chat |
 
+## How It Actually Works
+
+Rituals decay into theater through a predictable mechanism: the moment a
+recurring meeting stops being the place where a real decision gets made,
+attendees correctly infer that showing up prepared is optional, so
+preparation quality drops, which makes the meeting even less useful for
+decisions, which further confirms it's theater — a doom loop that's very
+hard to reverse once it starts because reputational inertia ("that meeting
+is a waste of time") outlasts any single agenda fix. The leverage point is
+narrower than "run better meetings": every ritual needs one identifiable
+decision or unblock that could not have happened without it, and if a lead
+can't name what that is for a given standing meeting, cutting it is
+almost always right, because a ritual with no decision attached is pure
+coordination tax that participants pay in attention even when they've
+mentally checked out. The rituals that stay healthy for years share a
+structural trait: someone owns actively noticing when the meeting's
+original purpose has been satisfied by a smaller channel (a Slack thread
+now covers what standup used to cover) and kills or restructures it rather
+than letting it run on inertia because "we've always had it."
+
 ## Exercise
 
 Pick a real or hypothetical team of 3 PMs. Design their full ritual calendar

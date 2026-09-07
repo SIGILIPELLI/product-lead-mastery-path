@@ -85,6 +85,27 @@ throughput disciplines, and treating them as automatable is the most
 common AI-native-org design mistake Amara actively guards against in her
 own Leads' proposals.
 
+## How It Actually Works
+
+AI-native org design breaks the assumption most org charts are built on —
+that headcount and decision-throughput scale together — because AI tooling
+changes the marginal cost of producing a first draft (a spec, an analysis,
+a prototype) without changing the marginal cost of the judgment required to
+evaluate whether that draft is actually right, which shifts the org's real
+bottleneck from "who can produce enough work" to "who has the judgment to
+know which output to trust and which to discard." Orgs that redesign roles
+around this shift concentrate senior judgment earlier in the review chain
+(catching a wrong AI-assisted direction before it's built on, rather than
+after) and correspondingly need fewer people doing pure production and
+relatively more doing evaluation and direction-setting — a structural
+inversion from the traditional pyramid where production scaled with
+headcount and judgment sat only at the top. Orgs that don't redesign around
+this simply produce more low-quality drafts faster, because they kept the
+old ratio of production capacity to judgment capacity while the former grew
+much faster than the latter, and the review bottleneck that used to be
+invisible (because production was the constraint) becomes the org's actual,
+newly-exposed limiting factor.
+
 ## Exercise
 
 Pick one recurring task in your own workflow that AI tooling has

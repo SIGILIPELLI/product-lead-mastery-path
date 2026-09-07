@@ -75,6 +75,27 @@ did its job.
 | Vision reads identically to last year's | No "why now" — it's generic instead of tied to a real moment | Anchor to a specific market/company change |
 | Squads' roadmaps don't obviously connect to the mission | Vision was written without mapping it to actual current initiatives | Rewrite the "how each squad ladders up" section with real, current squad names |
 
+## How It Actually Works
+
+A vision statement changes behavior only if it survives contact with a
+tradeoff, and most don't, because the mechanism that makes vision "real" is
+repetition at the exact moment someone is choosing between two roadmap
+items — not the slide it was announced on. Information about the vision
+decays fast: a PM hears it once at an all-hands, then spends the next three
+months in backlog grooming meetings where no one restates it, so by
+prioritization time the vision has been replaced in working memory by
+whatever the loudest stakeholder said last week. Leads who successfully
+embed a vision don't write a better sentence — they build a forcing
+function that re-injects the vision into the decision itself: a
+prioritization template with a mandatory "how does this ladder to the
+vision" field, or a standing question in roadmap reviews that has no other
+purpose than testing whether a proposed bet actually serves the stated
+direction. The visions that fail are almost always technically well-written
+and organizationally unsupported — nothing recurring forced anyone to check
+their week-to-week choices against them, so the vision quietly became
+decoration while the actual prioritization logic reverted to "whoever
+escalated loudest" or "whatever's easiest to ship this sprint."
+
 ## Exercise
 
 Write a one-page team vision doc using the template above for a team you

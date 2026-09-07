@@ -86,6 +86,25 @@ the next 2 quarters, and if so, write a short role scorecard (mission,
 | Mentoring & growth | Module 6 | How do PMs get better under this Lead? |
 | Hiring plan | Module 9 | How does the team grow, and with what bar? |
 
+## How It Actually Works
+
+A charter only changes team behavior if it gets *invoked* at the moment a
+norm is being tested — which means the real design work isn't writing the
+document, it's deciding which specific future conflicts the charter needs
+to pre-resolve, because a charter that answers questions no one was
+actually confused about is a filing exercise, and one that dodges the
+questions the team will actually fight over (who has final say on scope
+cuts near a deadline, what "done" means for a shared component) leaves the
+team exactly as unaligned as before, just with a nicer-looking document.
+Charters that stick share a structural habit: they get re-opened and
+amended the first time reality contradicts them, rather than being treated
+as a one-time artifact — because a charter no one has ever needed to argue
+about in month two is usually a sign it was never specific enough to bind
+anyone's behavior in the first place. The teams that actually reference
+their charter in a live disagreement ("per what we agreed, this decision
+is mine, not yours") are the ones where it was written by working through
+real, specific disputes in advance, not by filling in a generic template.
+
 ## Exercise
 
 Assemble the full Product Team Charter (all 7 sections from Steps 2-8) into

@@ -74,6 +74,25 @@ rewriting every quarter, that's itself a signal — either the market
 genuinely shifted, or the "strategy" was actually a roadmap wearing a
 strategy's title.
 
+## How It Actually Works
+
+At the VP/CPO level, strategy statements compete for organizational
+attention against every other executive's strategy statement, and the
+mechanism that determines which one actually shapes resource allocation
+is not clarity of the writing but how directly it resolves the specific
+tradeoffs the org is already fighting about. A strategy that avoids naming
+the hard tradeoff (we will lose at X to win at Y) reads as safe to write
+but gets ignored in practice, because every team below can interpret it as
+compatible with whatever they were already planning to do — a strategy
+compatible with everything commits the organization to nothing. The CPOs
+whose strategy actually redirects behavior are the ones willing to make it
+falsifiable: naming what would prove the bet wrong, and more importantly,
+naming what the org will stop doing, because "what we'll stop" is the only
+part of a strategy that actually reallocates scarce resources rather than
+just adding a new initiative on top of an unchanged workload — and it's
+also the part every subordinate quietly hopes gets left vague, because a
+named "stop" creates a losing team whose leader will resist it.
+
 ## Exercise
 
 Draft a one-paragraph belief statement for a market or product area you

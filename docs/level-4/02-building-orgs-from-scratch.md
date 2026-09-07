@@ -74,6 +74,27 @@ out of habit.
 | A second roadmap area needs dedicated ownership | Time for the second PM hire and possibly a second Lead |
 | The team has hit its first real cross-cutting friction (like Level 3 Module 3's escalation-bouncing example) | A sign the org has enough surface area to need real structure — a good problem |
 
+## How It Actually Works
+
+The first org design decisions at a new company or new division get
+encoded into informal norms far faster than they get written down, and
+those informal norms are dramatically more resistant to later change than
+the formal structure, because by the time anyone tries to fix a
+dysfunctional early pattern, it's no longer a policy choice — it's "how we
+do things here," defended by whoever benefited from it and normalized for
+everyone who joined after it was established. This is why the first
+2-3 hires into a nascent product org matter disproportionately more than
+headcount math would suggest: those early hires set the default answer to
+questions like "who decides" and "how fast is fast enough" before anyone
+has consciously chosen those defaults, and reversing a bad early default
+later requires overcoming both the behavioral inertia of tenured
+employees and the reputational cost of admitting the original approach
+was wrong. Builders who get this right treat the first few structural
+choices as deliberately reversible experiments with an explicit review
+date, rather than permanent decisions, precisely because they know informal
+practice will calcify around whatever they pick faster than the formal org
+chart implies.
+
 ## Exercise
 
 If you were handed a blank sheet to build a 3-5 person product function

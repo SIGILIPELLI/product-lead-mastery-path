@@ -173,6 +173,26 @@ senior plan from a junior one:
 | Ramp | Is productivity defined by an observable, or by a feeling? |
 | Downside | What happens if you get none of this? |
 
+## How It Actually Works
+
+The reason a scaling plan needs a target org shape *before* a hiring
+sequence, rather than the other way around, is that hiring is
+path-dependent: the second and third hires you make are constrained by who
+you already hired first, so a plan that just estimates headcount without
+committing to structure will hire generically-strong PMs into a shape that
+doesn't exist yet, then discover mid-year that half the team was hired for
+roles the eventual structure doesn't need. The gap-analysis step (current
+state vs. target) is where most real scaling plans actually get rewritten
+once — teams that skip straight from "we need more people" to "here's the
+req list" consistently over-hire in whatever area was most visibly painful
+last quarter and under-hire in the area the *target* structure will
+actually stress, because pain today is vivid and future structural need is
+abstract. The ramp-and-downside section matters for a similar reason: a
+hiring plan that only models the optimistic timeline breaks the first time
+a candidate falls through or revenue dips, because no one pre-thought
+through which hires are truly load-bearing versus which can slip a quarter
+without breaking the roadmap.
+
 ## Stretch goals
 
 Once the core document is assembled, take it further:

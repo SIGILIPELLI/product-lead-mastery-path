@@ -160,6 +160,26 @@ leaders who only do the second are not trusted by their teams.
 | Public disagreement after a decision | Disagree in private, commit in public, and say you did |
 | Never admitting a mistake upward | One voluntary "I got this wrong" per month buys more trust than any win |
 
+## How It Actually Works
+
+Managing up works through the same information-asymmetry mechanism that
+makes managing down hard, just inverted: your manager's picture of your
+team is built entirely from what you choose to surface, so every time you
+under-report a risk to avoid an uncomfortable conversation now, you're
+borrowing against a much worse conversation later, when the risk becomes
+visible anyway but without the credit for having flagged it early. Leads
+who manage up well treat their manager's limited attention as the scarce
+resource it is and pre-filter aggressively — surfacing the two things that
+actually need their manager's input or air cover, rather than everything
+that's merely interesting — because a manager who's burned by low-signal
+updates starts skimming everything from that lead, including the update
+that actually mattered. The trust that lets a lead get real autonomy is
+built cumulatively through a track record of calibrated escalation: flag
+real risks early and accurately enough times, and a manager learns to
+extend more decision latitude, because they've learned this lead's silence
+reliably means "no real risk" rather than "risk hidden until it's too big
+to hide."
+
 ## Exercise
 
 Use your real manager and your real current situation.

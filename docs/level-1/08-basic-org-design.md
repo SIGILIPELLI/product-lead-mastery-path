@@ -56,6 +56,26 @@ that's specific rather than systemic.
 | One squad is a constant bottleneck for others' launches | Consider a platform/product split (Level 3, Module 8) |
 | The org design hasn't changed in 2+ years despite major product growth | Worth revisiting even without an acute crisis |
 
+## How It Actually Works
+
+Org structure is a bet about which coordination costs you're willing to pay
+and which you're not, and the mechanism that makes a structure "work" or
+"fail" is where it routes the *most frequent* decision, not the most
+important one. A team split by feature area routes daily prioritization
+decisions locally (fast) but pushes cross-feature consistency decisions up
+to a lead who becomes a bottleneck if those cross-cutting calls are
+frequent. A team split by user journey does the opposite. Most org-design
+mistakes come from designing around last quarter's org chart problem
+instead of this quarter's decision-frequency reality — a structure copied
+from a case study or a bigger competitor, applied without checking whether
+this org's actual bottleneck decisions match the ones that structure was
+built to route. The tell that a structure is wrong is observable within
+weeks: a specific category of decision keeps getting escalated past the
+person who should own it, over and over, because the structure routes
+authority to someone without the context, or context to someone without
+the authority — and no amount of process fixes that mismatch; only
+re-drawing the lines does.
+
 ## Exercise
 
 Take a real or hypothetical product org of 4-6 PMs. Write down which of the

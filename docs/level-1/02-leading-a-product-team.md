@@ -63,6 +63,26 @@ cross-squad sync so initiatives stop colliding silently.
 | React to whatever's loudest today | Spend deliberate time diagnosing root causes, not just symptoms |
 | Give feedback only when something goes wrong | Give feedback on a fixed cadence, good and bad |
 
+## How It Actually Works
+
+Team leadership breaks down less from bad intentions than from a bandwidth
+math problem: a Product Lead with four PMs and 45 minutes of 1:1 time per
+week per PM has roughly 3 hours of individual contact time, but each PM
+generates 5-10 hours of decisions, blockers, and stakeholder friction that
+*could* use the lead's input. The mechanism that makes leadership scale
+isn't more hours — it's converting synchronous judgment calls into
+standing defaults the PM can apply without asking. A lead who says "always
+loop in legal before promising a launch date to enterprise customers" once,
+in writing, removes dozens of future 1:1 minutes and future Slack
+interruptions. The leads who stay bottlenecked are the ones who keep
+answering the same category of question personally because writing the
+general rule down feels like extra work in the moment. The compounding
+effect goes the other way too: every ad-hoc judgment call a lead makes
+*instead of* codifying a default teaches the team that judgment calls go up
+the chain, which increases the volume of the next quarter's escalations —
+a self-reinforcing bottleneck that looks like "just needing to hire another
+PM" when the actual fix is delegation infrastructure.
+
 ## Exercise
 
 Pick one real (or realistic) week from your current or a past role. List

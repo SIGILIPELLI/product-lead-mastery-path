@@ -68,6 +68,26 @@ during that absence (decisions that stall waiting for her, culture norms
 that slip) is a more honest signal of what's actually durable than any
 self-assessment could produce.
 
+## How It Actually Works
+
+Culture that outlasts its founding leaders survives through a specific
+transmission mechanism that most companies never deliberately build: the
+stories that get retold internally about "what we do when it's hard" have
+to keep circulating and getting reinforced by *new* examples, not just the
+founding-era anecdotes, because a culture that only has origin stories from
+a decade ago starts to feel like history rather than a live, current
+standard employees are actually held to — and once it feels like history,
+new hires treat it as folklore rather than as an operating constraint on
+their own choices. The mechanism that keeps a culture "enduring" rather
+than "nostalgic" is continuous, visible enforcement in fresh, current
+situations — leaders who publicly make a hard, culturally-consistent
+tradeoff *this quarter*, not just leaders who cite what the founders did
+years ago, because current enforcement is the only signal current
+employees actually calibrate their own behavior against; a culture
+maintained purely by reference to the past has effectively already stopped
+being enforced and is coasting on inertia that erodes a little more with
+every leadership transition that doesn't actively renew it.
+
 ## Exercise
 
 Run a legacy audit on one practice you've personally built or championed —

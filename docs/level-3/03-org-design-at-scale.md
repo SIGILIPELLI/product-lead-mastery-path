@@ -106,6 +106,25 @@ That comes out to 18 PMs across 5 Leads (avg span 3.6), and adding a
 Meridian's stated ceiling of 5 direct reports per Lead, so Amara can absorb
 one more pod under an existing Lead before she needs to hire a sixth.
 
+## How It Actually Works
+
+At scale, org design mistakes take a full quarter or more to show up as
+pain, because the structural cost is absorbed first by individual
+managers working extra hours to route around a bad boundary, not by any
+metric leadership is watching — so a genuinely broken structure can look
+fine on dashboards for months while burning out the managers holding it
+together through sheer effort. The mechanism that reveals a structural
+problem early, before burnout, is tracking a *leading* indicator instead
+of a lagging one: how many decisions are being escalated two or more
+levels above where the org chart says they should be resolved. A rising
+escalation rate for a specific decision type is the org structure itself
+signaling a mismatch between where authority sits and where the context
+to use it sits — and it shows up months before turnover or missed roadmap
+commitments do. Leaders who redesign structure reactively, only after
+lagging metrics degrade, are always fixing a problem that's already cost
+the org a quarter or two of quiet, absorbed inefficiency that never showed
+up anywhere trackable until it broke something visible.
+
 ## Exercise
 
 Map your own org (or the org one level above you, if you don't yet run

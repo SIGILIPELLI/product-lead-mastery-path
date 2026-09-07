@@ -149,6 +149,27 @@ queue. So the sequence is:
 | Documenting only bad performance | Write down good evidence when it happens, too |
 | Conflating a cancelled strategy with a PM's failure | Rewrite the goal; rate against the rewritten one |
 
+## How It Actually Works
+
+The reason most performance conversations fail isn't the manager's nerve,
+it's timing: feedback given at the formal review, months after the
+behavior, arrives with the evidence already faded and the PM primed to
+treat it as a verdict on their whole competence rather than a correctable
+signal about one behavior. The mechanism that makes performance management
+actually change behavior is proximity — feedback delivered within days of
+the specific instance, tied to a specific decision or artifact the PM can
+still recall clearly, framed as "here's what I'd have wanted differently on
+this spec" rather than "you're bad at specs." Calibration sessions exist
+to correct a different, structural bias: without them, "meets expectations"
+means something different in every manager's head, and a PM's rating
+becomes more a function of which manager they happen to report to than of
+their actual output — a bias that compounds over years into pay and
+promotion gaps that have nothing to do with performance. The underperformance
+conversations that actually resolve well are the ones where the manager has
+already been giving proximate, specific feedback for weeks, so the formal
+conversation is confirmation of a pattern the PM already recognizes, not a
+first-time ambush.
+
 ## Exercise
 
 Pick two real people you manage (or two realistic PM profiles: one strong,

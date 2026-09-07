@@ -73,6 +73,26 @@ approve her stepping up.
 | No timeline discipline | Succession plans exist as a document, never revisited | Review the pipeline table at the same cadence as the career ladder calibration (Level 3 Module 4) |
 | Treating succession planning as secret | Successors don't know they're being developed, can't lean in | Tell people directly (within reason) that they're part of the pipeline and what evidence they still need |
 
+## How It Actually Works
+
+Leadership pipelines fail silently for years before the gap becomes
+visible, because the feedback loop between "we underinvested in developing
+leaders" and "we don't have anyone ready for this VP opening" is measured
+in years, not quarters — which means the org can go multiple budget cycles
+deprioritizing leadership development (it never looks urgent relative to
+this quarter's roadmap pressure) before the cost lands as an expensive
+external hire, a promotion of someone under-prepared, or a leadership
+vacancy that stalls a whole function. The mechanism that actually builds a
+pipeline is deliberately assigning stretch scope *before* someone is fully
+ready for it, with real support and real acceptable risk of a stumble —
+because the only way to build the judgment that a bigger role requires is
+practicing it under real, if bounded, stakes; a candidate who's only ever
+been given scope they could handle comfortably never develops the
+judgment a genuinely harder role demands. Organizations that wait for
+someone to look "ready" before stretching them are using a signal that,
+almost by definition, never fires, since readiness for a role one level up
+is mostly built by being in that role, not before it.
+
 ## Exercise
 
 Pick one leadership seat above your own (or your own seat, if you manage

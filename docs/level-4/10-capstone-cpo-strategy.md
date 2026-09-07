@@ -83,6 +83,27 @@ headcount growth; evidence is the bet-by-bet structure above; risk is the
 register in section 4, led with the CPO-succession gap rather than burying
 it, consistent with the candor standard from the turnaround chapter.
 
+## How It Actually Works
+
+A capstone strategy document earns real organizational weight through the
+same mechanism as any executive strategy: it has to make its tradeoffs and
+risks falsifiable and specific enough that a reader six months from now can
+check whether the bet played out as claimed, rather than being vague enough
+to be retroactively declared "basically right" regardless of outcome. The
+reason this document deliberately pulls together org design, leadership
+pipeline, risk, and board communication into one artifact — rather than
+leaving them as separate plans — is that in a real company these are not
+independent levers: a bet that requires new org structure also requires
+leaders capable of running that structure, which requires a pipeline that
+was seeded quarters earlier, and all of it needs board air cover secured
+before the resourcing fight, not after. A capstone strategy that treats
+these as four separate documents, written independently, will contain
+internal contradictions that only surface once someone tries to execute all
+four simultaneously — which is exactly the integration failure that kills
+otherwise well-reasoned strategies in real organizations, and exactly what
+combining them into one coherent artifact is designed to force out in
+advance.
+
 ## Stretch goals
 
 - Write the actual one-page pre-read (Level 3 Module 5 format, under 300

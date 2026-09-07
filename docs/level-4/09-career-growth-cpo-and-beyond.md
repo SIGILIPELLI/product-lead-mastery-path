@@ -69,6 +69,26 @@ and being honest under pressure when honesty costs something. Those tools
 apply whether the next chapter is CEO, another CPO seat, a board table, or
 a company built from nothing.
 
+## How It Actually Works
+
+Growth beyond CPO runs into a scarcity mechanism that's different from
+every earlier career stage: the number of roles above CPO (CEO, board seats,
+multi-company operating roles) is small and largely allocated through
+informal network trust built over years, not through a competitive,
+criteria-based process the way promotions below that level typically are —
+which means the skills that got someone to CPO (executing well inside a
+defined mandate) are necessary but insufficient for what gets someone
+noticed for what's next, which is largely a function of who has personally
+observed their judgment under real, high-stakes ambiguity outside their own
+company's four walls. This is why board seats, advisory roles, and
+cross-company relationships function as more than networking for CPOs
+aiming further — they're the actual mechanism by which a small pool of
+decision-makers accumulates enough direct, trusted observation of someone's
+judgment to sponsor them into an even smaller pool of next-level roles;
+without that accumulated external trust, even an excellent internal track
+record often isn't visible or verifiable enough, to the right people, to be
+the deciding factor.
+
 ## Exercise
 
 Write your own honest answers to the four self-assessment questions above,

@@ -151,6 +151,25 @@ tolerate it will be rewriting roadmaps forever.
 | Rewriting their artefacts before reviews | State that you'll stop, then actually stop |
 | Panicking at the quality dip | The dip is the skill transferring; hold it |
 
+## How It Actually Works
+
+Discovery and delivery pull PMs in opposite directions because they're
+rewarded on different timescales: delivery has a visible, near-term payoff
+(a shipped feature, a closed sprint) while discovery's payoff is invisible
+and often negative in the short term (time not spent shipping, a finding
+that kills a planned feature). Left to natural incentive gradients, PMs
+systematically under-invest in discovery, not because they don't value it,
+but because every individual week, delivery's reward is concrete and
+discovery's is deferred and uncertain — a classic present-bias problem, not
+a knowledge gap. Coaching that just explains discovery methodology doesn't
+fix this, because the PM already knows the theory; what changes behavior is
+a manager who makes discovery's absence visible and costly in the same
+timescale as delivery — asking "what did you learn from a user this week"
+in the same weekly rhythm as "what did you ship this week," so skipping
+discovery has an immediate, visible consequence (an awkward silence in the
+1:1) rather than only a delayed one (a feature nobody wanted, three months
+later).
+
 ## Exercise
 
 Pick one PM you currently over-help.

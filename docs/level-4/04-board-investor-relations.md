@@ -77,6 +77,26 @@ hiring? A logistics-technology veteran on the board changes the quality of
 product-strategy discussions materially; a generically prestigious name
 does not, however much it helps optics.
 
+## How It Actually Works
+
+Investors and board members allocate their attention and trust based on a
+Bayesian-ish updating process they mostly aren't conscious of: every
+update you give either confirms or violates their prior model of your
+calibration, and because they see the company so infrequently, each data
+point carries outsized weight in updating that prior. This is why the
+single most valuable behavior in board/investor relations is proactively
+surfacing bad news before it's forced into the open by results, even when
+the bad news itself is unavoidable — an investor who learns of a miss from
+you, early and with a plan attached, updates their model of your
+competence upward despite the bad news itself, while the identical miss
+discovered independently (through numbers, or worse, through another
+investor) updates their trust downward regardless of how good your
+eventual recovery plan is. The asymmetry is what makes proactive,
+uncomfortable disclosure the higher-leverage move nearly every time, even
+though it's the harder short-term conversation to initiate — the
+information itself is fixed, but who controls its framing and timing is
+not.
+
 ## Exercise
 
 If you have (or anticipate having) any investor- or board-adjacent

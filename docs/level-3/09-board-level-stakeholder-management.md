@@ -79,6 +79,26 @@ and the general trust level in her judgment built from consistent framing
 over time. A single dazzling slide doesn't move that; steady, honest,
 well-pre-wired quarters over a year do.
 
+## How It Actually Works
+
+Board dynamics run on a different clock than internal management: a board
+member sees your company for a few hours per quarter and fills in the rest
+of the picture with inference from that limited sample, which means a
+single vivid negative data point (one bad quarter, one defensive answer to
+a hard question) gets weighted enormously more than the same fact would in
+a manager who sees you weekly and has more data to average against. The
+mechanism that determines whether a board relationship is an asset or a
+liability under pressure is what happened *between* meetings, not during
+them — board members who get informal, proactive updates on a brewing
+problem before the formal board meeting treat that problem as
+"management is on top of it"; the identical problem, surfaced for the
+first time cold in the meeting itself, reads as "management was caught
+off guard," even when the underlying facts and even the underlying
+competence are the same. Product leads who manage board relationships well
+are running an information-timing strategy as much as a communication-style
+strategy — the sequence in which a fact reaches the board matters at least
+as much as how it's phrased.
+
 ## Exercise
 
 If you have any exposure to board or senior-executive stakeholders, map

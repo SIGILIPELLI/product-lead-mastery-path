@@ -153,6 +153,26 @@ whole of budget power.
 | Items that silently never happen | Decline explicitly, in writing, with a reason |
 | Never reporting actuals | Report variance unprompted; it's how numbers become trusted |
 
+## How It Actually Works
+
+Budget cycles reward a specific behavior that has nothing to do with
+actual resourcing need: whoever builds the most defensible-looking case
+with the most confident numbers gets funded, regardless of whether their
+underlying bet is the company's best one, because finance and leadership
+allocating across many competing asks can't independently verify each
+team's ROI claim and default to trusting whichever case is best
+documented and most confidently presented. This creates a quiet arms race
+where product leads who are strong at making a case get systematically
+over-resourced relative to leads who are better at product but weaker at
+budget narrative — a mismatch that compounds every cycle because the
+over-resourced team's larger footprint makes their next ask look even more
+credible by sheer size. The leads who resource well over multiple cycles
+build a habit that counteracts this: tracking their own past budget asks
+against actual delivered outcomes and bringing that track record into the
+next ask, which is a different, harder-to-fake signal than a well-built
+slide, and over time earns them decision-maker trust that isn't reset to
+zero every budget season the way a purely narrative case is.
+
 ## Exercise
 
 Use your real team, or a realistic 3-4 squad org.

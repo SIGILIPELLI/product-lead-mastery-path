@@ -83,6 +83,26 @@ doesn't serve — gets sunset over two quarters, with Kai personally briefed
 on why and given the sunset-communication ownership rather than having it
 happen to him.
 
+## How It Actually Works
+
+Most M&A product integrations fail for a reason that has nothing to do
+with the products' technical or strategic fit: the acquired team's
+informal decision-making norms (who actually needs to sign off, how fast
+decisions get made, what "done" means) were built under a different
+resource-constraint environment than the acquirer's, and forcing an
+overnight switch to the acquirer's process destroys the acquired team's
+functioning speed before it's replaced with equivalent trust in the new
+process. The mechanism that determines integration success is sequencing:
+teams that preserve the acquired org's decision rights for a defined
+transition window, while deliberately building the cross-org relationships
+and trust that eventually let the new process work, integrate successfully;
+teams that mandate process conformity on day one, before any of that trust
+exists, get a wave of attrition from the acquired team's best people within
+two quarters — not because the new process is objectively worse, but
+because it's imposed before anyone earned the standing to impose it, so it
+reads as a hostile takeover of autonomy rather than a genuine merger of
+practice.
+
 ## Exercise
 
 Pick a real or hypothetical acquisition/merger scenario relevant to your

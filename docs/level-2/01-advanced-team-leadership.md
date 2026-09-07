@@ -131,6 +131,25 @@ nine days executing on rank 1-4 work rather than speculating in Slack.
 | Strategy changes mid-cycle | Re-rank rather than delete; separate goal changes from performance judgements |
 | You're in every meeting | Which of these am I attending out of habit rather than leverage? |
 
+## How It Actually Works
+
+At the multi-team stage, a lead's information about any given squad is
+almost entirely secondhand — filtered through the PM who runs it, who has
+their own incentive to present their team's status favorably. This creates
+a structural blind spot: leads who rely solely on status updates in 1:1s
+and standups are systematically biased toward hearing about problems only
+after the PM has already tried and failed to fix them quietly, because
+admitting a problem earlier feels (to the PM) like admitting weakness. The
+mechanism that counteracts this is deliberately maintaining a *second*,
+unfiltered information channel — skip-levels with ICs, direct access to
+dashboards rather than PM-summarized dashboards, sitting in on a squad's
+actual working session occasionally — not to bypass the PM's authority but
+to catch the gap between what's reported and what's happening before it
+compounds. Leads who only ever hear about their teams through their PMs
+inevitably get surprised by problems that were visible to the team for
+weeks, because the reporting chain has a built-in filtering delay that
+scales with how uncomfortable the news is.
+
 ## Exercise
 
 Take your own team (or a realistic one of 4+ PMs across 3 squads).

@@ -151,6 +151,25 @@ and Karim gets resolved at rung 1 in a day, because both now know the map.
 | You're about to present to the VP | Pre-brief your peers; never surprise them in the room |
 | A cross-functional win lands | Give the credit to the function that drove it |
 
+## How It Actually Works
+
+Cross-functional friction is rarely about personality — it's almost always
+a decision-rights ambiguity that only becomes visible when two functions
+disagree, because as long as everyone agrees, no one notices that the
+authority to make the call was never actually assigned. A product lead who
+tries to resolve function conflicts case-by-case, as they arise, is solving
+the same underlying ambiguity repeatedly and burning trust each time,
+because each resolution looks arbitrary to whichever function lost that
+round. The mechanism that actually reduces cross-functional conflict is a
+standing, written decision-rights map — who has final say on scope, who has
+final say on technical approach, who has final say on ship/no-ship — agreed
+*before* the next disagreement, not negotiated live during one, because a
+decision made under live conflict pressure is read by the losing side as
+politics, while the same decision made by pointing to a pre-agreed rule is
+read as fair, even when the outcome is identical. Product leads who invest
+in that upfront map spend far less relationship capital per quarter than
+ones who re-litigate authority every time a real conflict surfaces.
+
 ## Exercise
 
 With your own team in mind (or a realistic trio setup):

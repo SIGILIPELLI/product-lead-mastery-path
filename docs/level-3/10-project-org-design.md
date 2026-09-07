@@ -87,6 +87,27 @@ dilutes focus) — before the planning meeting, then presents the proposal
 to the full board using headline/ask/evidence/risk, not a walkthrough of
 this full document (which goes out as the pre-read).
 
+## How It Actually Works
+
+The reason this proposal has to name specific decisions for the board or
+CEO to approve, rather than presenting a structure as a fait accompli, is
+that org redesigns fail most often not from a flawed structure but from
+contested legitimacy — a structure imposed without visible executive
+buy-in gets quietly undermined by whichever manager lost authority in the
+reshuffle, who routes around the new lines by escalating to their old
+relationships instead of the new formal owner. Naming the specific
+decisions being asked for forces the sponsoring executive to actually
+commit their authority publicly behind the new lines, which is what gives
+a reorg teeth in its first uncomfortable test — when someone tries to
+escalate around the new structure in month two, as they always do, the
+executive's prior public commitment is what makes them decline the
+end-run rather than quietly relitigate the whole design. Rollback plans
+matter for a parallel reason: naming in advance what evidence would trigger
+a reversal makes the redesign falsifiable and therefore credible, whereas
+a redesign with no defined failure condition tends to persist purely
+through sunk-cost and political inertia even after it's visibly not
+working.
+
 ## Stretch goals
 
 - Build the actual career-ladder leveling packet (Module 4 format) you

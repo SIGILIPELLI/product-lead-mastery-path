@@ -67,6 +67,27 @@ not just locally — needs a full cycle to establish before the title
 changes. Consistency of process, not identical outcomes on an accelerated
 timeline, is what Amara protects.
 
+## How It Actually Works
+
+Global product orgs run into a synchronization tax that scales with time
+zone spread, not headcount: every decision that needs input from people in
+non-overlapping working hours either waits a full day per round trip or
+gets made by whoever's awake, and both failure modes are expensive —
+waiting compounds delay across a dependency chain, while unilateral
+decisions by whoever's awake create silent regional drift where each
+region's product quietly diverges from a shared strategy no one explicitly
+overrode. The mechanism that limits this isn't more meetings (which just
+relocate the synchronization cost, they don't remove it) — it's
+deliberately shrinking the set of decisions that actually require
+cross-region synchronous input to the genuinely irreducible few, and
+pushing everything else to asynchronous, written decision-making with
+enough context that a regional lead can act correctly without waiting for
+a live conversation. Global leads who default every ambiguous call to "let's
+get on a call" are the ones whose orgs feel perpetually behind, because
+they've implicitly made calendar overlap the bottleneck resource for
+decisions that didn't actually require real-time discussion to resolve
+correctly.
+
 ## Exercise
 
 If you work across time zones or regions (even two offices), identify one

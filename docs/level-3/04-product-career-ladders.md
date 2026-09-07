@@ -89,6 +89,26 @@ actual purpose of writing the ladder down.
 | No lateral ceiling below Lead | Strong ICs feel forced into management to grow | Add a Staff/Principal PM track parallel to Product Lead |
 | Different Leads apply different bars | Some pods promote faster than others | Cross-Lead calibration session every cycle, not each Lead deciding alone |
 
+## How It Actually Works
+
+A career ladder only functions as a real incentive structure if promotion
+decisions can be traced back to it by someone who wasn't in the room — the
+mechanism that makes a ladder credible (and therefore motivating) is
+*auditability*, not the elegance of the level descriptions. If two PMs at
+identical levels of demonstrated impact get different promotion outcomes
+because one had a more politically connected manager championing them,
+every PM who hears about the discrepancy (and they do hear about it)
+recalibrates their model of what actually gets rewarded — usually toward
+"visibility and relationship management matter more than the stated
+criteria," which quietly redirects effort away from whatever the ladder
+claims to value. Ladders that hold up over years pair the written criteria
+with a calibration mechanism that has actual teeth — cross-manager review
+of promotion packets against the same evidence bar, not just each
+manager's individual judgment — because the ladder document itself is
+inert; it's the enforcement process behind it that determines whether
+"what's written" and "what actually gets rewarded" are the same thing or
+quietly diverge.
+
 ## Exercise
 
 Draft one level of a career ladder for a role you're responsible for

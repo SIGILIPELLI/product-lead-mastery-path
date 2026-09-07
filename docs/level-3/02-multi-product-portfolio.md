@@ -107,6 +107,26 @@ Amara's process, not instinct:
 | Monthly | All five Leads | Cross-line dependencies, early-warning metrics per line |
 | Quarterly | All five Leads + CEO Lena | Full portfolio table, reallocation decisions, posture reclassification |
 
+## How It Actually Works
+
+Portfolio leadership runs into a specific measurement trap: products at
+different maturity stages need different success metrics (a new bet is
+judged on learning velocity, a mature product on efficiency and margin),
+but a single company-wide dashboard almost always defaults to one uniform
+metric set, which systematically punishes early-stage bets for not yet
+looking like the mature product and rewards mature products for
+incremental optimization that's actually lower-leverage than it appears.
+Left unmanaged, this metric mismatch causes companies to starve their next
+bet in favor of the current cash cow every single funding cycle, not
+because leadership doesn't believe in the new bet intellectually, but
+because the standard dashboard makes the cash cow look like the obviously
+better investment quarter over quarter. The mechanism that protects a
+portfolio's future bets is deliberately different, stage-appropriate
+success criteria negotiated and defended *before* the funding review, not
+during it — because defending a nonstandard metric live, in the room where
+the mature product's numbers are already up on the same slide, is a losing
+argument almost every time.
+
 ## Exercise
 
 Build a portfolio table for the product lines or major initiatives you

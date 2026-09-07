@@ -97,6 +97,27 @@ consumed by Ravi's pod a year from now, Amara's plan is to fold it back
 into a product-team relationship rather than protect a platform structure
 that no longer earns its overhead.
 
+## How It Actually Works
+
+The platform-vs-product tension is a real resource-allocation conflict
+disguised as an org-design debate: platform investments have long payback
+periods and diffuse benefit across many product teams, while product-team
+investments have short payback and concentrated, attributable benefit to
+whoever funded them — which means in any funding process that rewards
+visible, attributable wins, platform work will be chronically
+under-invested relative to its true long-run value, regardless of org
+chart, unless something specifically corrects for that bias. Structuring
+platform as its own team with its own roadmap doesn't fix the incentive
+mismatch by itself; it just relocates the underfunding fight to a budget
+negotiation between the platform lead and product leads who don't feel the
+platform's payoff in their own metrics. The mechanism that actually
+protects platform investment is giving the platform team's success metric
+real weight in the same review cycle that judges product teams — measuring
+and publicizing how much *faster* product teams shipped because of a
+platform improvement — so platform's diffuse value gets converted into a
+visible, attributable number that can compete for funding on the same
+terms product teams' wins do.
+
 ## Exercise
 
 Identify a team in your org (or a function within your own team) that has

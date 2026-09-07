@@ -73,6 +73,27 @@ same situation, unequipped, next quarter.
 | PM seems stuck in the same kind of problem repeatedly | That's a pattern worth naming directly and coaching toward, not re-solving each time |
 | 1:1s keep turning into status readouts | Move status to an async pre-read; protect the live time for coaching |
 
+## How It Actually Works
+
+Mentoring only produces growth when the feedback loop is short enough for
+the PM to still remember the reasoning behind a decision when the outcome
+lands — and in product work, that loop is often quarters long (a
+prioritization call made in January doesn't show its consequences until a
+metric moves in April), which is exactly why unmentored PMs plateau: by the
+time they'd have useful signal about whether their judgment was right, the
+context has evaporated and no lesson gets attached to the outcome. A
+mentor's actual function is to manufacture *shorter* feedback loops
+artificially — reviewing the PM's reasoning at decision time (not just the
+outcome later), asking "what would make you wrong about this" before the
+bet is placed, and then deliberately reconnecting the eventual outcome back
+to that original reasoning months later, since the PM won't do that
+reconnection on their own. Mentoring that's just praise-or-criticism after
+the fact, disconnected from the PM's reasoning at the time, teaches
+pattern-matching on outcomes ("that failed, don't do that again") rather
+than on decision quality — which is why some PMs who get lucky outcomes
+early develop bad judgment that isn't corrected until a much more expensive
+failure later.
+
 ## Exercise
 
 Write out an SBI feedback statement for a real (or plausible) piece of PM

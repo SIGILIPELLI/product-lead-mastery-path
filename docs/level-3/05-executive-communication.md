@@ -100,6 +100,28 @@ detail backfires. Amara's framework, used live:
    once beats a better answer that reopens a closed topic and eats the next
    agenda item's time.
 
+## How It Actually Works
+
+Executive audiences operate under a much harsher attention constraint than
+a team meeting — a board member or CEO evaluating your update has perhaps
+90 seconds of working memory before their attention shifts to the next
+agenda item or their own competing priority, which means the actual
+mechanism of effective executive communication is front-loading the
+decision or ask into that window, because anything explained in narrative
+order (context, then analysis, then conclusion) loses the audience before
+reaching the conclusion that mattered. This is why "bottom line up front"
+isn't a stylistic preference, it's a response to a real constraint: an
+executive who has to extract your ask by inference from a narrative will
+often extract the wrong one, or worse, tune out and default to whatever
+they already believed coming in. The deeper mechanism executives are
+running, largely unconsciously, is pattern-matching your update against
+your track record of calibration — if your past "everything's on track"
+updates preceded a surprise miss, your current update gets discounted
+regardless of how well-structured it is, which is why credibility built
+through consistently accurate risk-flagging compounds into more latitude
+over time, and inconsistent calibration erodes it faster than any single
+bad meeting could.
+
 ## Exercise
 
 Take your most recent status update to a manager or exec (an email, a

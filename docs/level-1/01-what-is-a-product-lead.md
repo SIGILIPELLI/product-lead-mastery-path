@@ -71,6 +71,27 @@ The product area didn't change. The job did, completely.
 | Product Lead → Head of Product | Managing PMs directly day-to-day | Managing Product Leads who manage PMs |
 | Product Lead → Head of Product | Team-level rituals and hiring | Org design, cross-org strategy, board/exec communication |
 
+## How It Actually Works
+
+The title confusion described above isn't a naming accident — it's a
+consequence of how compensation bands and reporting lines get set at most
+companies. HR levels titles off years-of-experience and scope of *people*
+managed, but the actual job changes off a different variable: whether your
+output is measured by what you personally shipped or by what your team
+shipped without you in the room. That mismatch is why a company can have a
+"Senior PM" doing Product Lead work with no direct reports (because no
+headcount was approved) and a "Product Lead" who still writes every spec
+(because no one taught them to stop). The real signal isn't the title on the
+org chart, it's where the escalation path terminates: if a stuck PM's
+problem routes to you and stops there because you decide, you're doing
+IC work with a management label. If it routes to you and you route it back
+to the PM with a sharper question, you've made the shift. Companies that get
+this transition right build an explicit "decision rights" checklist into the
+promotion itself — naming which calls the new Product Lead must stop making
+personally — because without that forcing function, old habits (and the
+dopamine hit of personally solving a hard problem) pull people back into IC
+mode for years after the promotion is official.
+
 ## Exercise
 
 Write a half-page "role clarity memo" as if you just accepted a Product Lead
