@@ -107,6 +107,10 @@ because it's imposed before anyone earned the standing to impose it, so it
 reads as a hostile takeover of autonomy rather than a genuine merger of
 practice.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 04 · M&A and Product Integration](https://sigilipelli.github.io/product-manager-mastery-path/level-4/04-ma-and-product-integration/)
+
 ## Exercise
 
 Pick a real or hypothetical acquisition/merger scenario relevant to your

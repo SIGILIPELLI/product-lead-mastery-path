@@ -92,6 +92,11 @@ they've implicitly made calendar overlap the bottleneck resource for
 decisions that didn't actually require real-time discussion to resolve
 correctly.
 
+## 🔀 Related lessons on other tracks
+
+- [Servant Leadership — 07 · Global Leadership Considerations](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/07-global-leadership-considerations/)
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+
 ## Exercise
 
 If you work across time zones or regions (even two offices), identify one

@@ -110,6 +110,11 @@ much faster than the latter, and the review bottleneck that used to be
 invisible (because production was the constraint) becomes the org's actual,
 newly-exposed limiting factor.
 
+## 🔀 Related lessons on other tracks
+
+- [NodeMCU/IoT — Capstone — Production IoT Product Design](https://sigilipelli.github.io/nodemcu-mastery-path/level-4/10-capstone-production-iot-product/)
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+
 ## Exercise
 
 Pick one recurring task in your own workflow that AI tooling has

@@ -100,6 +100,10 @@ their week-to-week choices against them, so the vision quietly became
 decoration while the actual prioritization logic reverted to "whoever
 escalated loudest" or "whatever's easiest to ship this sprint."
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 01 · Product Strategy & Vision](https://sigilipelli.github.io/product-manager-mastery-path/level-3/01-product-strategy-vision/)
+
 ## Exercise
 
 Write a one-page team vision doc using the template above for a team you

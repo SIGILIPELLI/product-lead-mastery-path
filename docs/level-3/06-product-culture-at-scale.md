@@ -102,6 +102,10 @@ choices, or the org's actual, revealed culture quietly diverges from the
 stated one, deal by deal, promotion by promotion, without any single
 moment where the divergence looked like a decision.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 06 · Building Product Culture](https://sigilipelli.github.io/product-manager-mastery-path/level-4/06-building-product-culture/)
+
 ## Exercise
 
 List the three rituals your team or org currently runs (formally or

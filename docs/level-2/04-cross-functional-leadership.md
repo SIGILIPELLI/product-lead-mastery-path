@@ -174,6 +174,11 @@ read as fair, even when the outcome is identical. Product leads who invest
 in that upfront map spend far less relationship capital per quarter than
 ones who re-litigate authority every time a real conflict surfaces.
 
+## 🔀 Related lessons on other tracks
+
+- [AI Manager — 05 · Managing Cross-Functional AI Teams](https://sigilipelli.github.io/ai-manager-mastery-path/level-2/05-managing-cross-functional-ai-teams/)
+- [Data Science — 07 · Cross-Functional Stakeholder Management](https://sigilipelli.github.io/data-science-mastery-path/level-4/07-stakeholder-management/)
+
 ## Exercise
 
 With your own team in mind (or a realistic trio setup):

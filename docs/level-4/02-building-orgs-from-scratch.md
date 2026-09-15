@@ -99,6 +99,11 @@ date, rather than permanent decisions, precisely because they know informal
 practice will calcify around whatever they pick faster than the formal org
 chart implies.
 
+## 🔀 Related lessons on other tracks
+
+- [AI/ML — 01 · Transformers & Attention from Scratch](https://sigilipelli.github.io/ai-ml-mastery-path/level-3/01-transformers-attention/)
+- [ML Math Foundations — 04 · Logistic Regression Gradient from Scratch](https://sigilipelli.github.io/ml-math-mastery-path/level-4/04-logistic-regression-gradient/)
+
 ## Exercise
 
 If you were handed a blank sheet to build a 3-5 person product function

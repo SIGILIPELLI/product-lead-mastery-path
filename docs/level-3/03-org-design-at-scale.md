@@ -129,6 +129,12 @@ lagging metrics degrade, are always fixing a problem that's already cost
 the org a quarter or two of quiet, absorbed inefficiency that never showed
 up anywhere trackable until it broke something visible.
 
+## 🔀 Related lessons on other tracks
+
+- [AI Manager — 02 · Org Design for AI-First Companies](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+- [Servant Leadership — 10 · Capstone — Design an Org-Wide Leadership Development Program](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/10-capstone-leadership-development-program/)
+
 ## Exercise
 
 Map your own org (or the org one level above you, if you don't yet run

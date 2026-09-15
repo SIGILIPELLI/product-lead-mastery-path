@@ -101,6 +101,10 @@ though it's the harder short-term conversation to initiate — the
 information itself is fixed, but who controls its framing and timing is
 not.
 
+## 🔀 Related lessons on other tracks
+
+- [Servant Leadership — 06 · Board & Stakeholder Relations](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/06-board-stakeholder-relations/)
+
 ## Exercise
 
 If you have (or anticipate having) any investor- or board-adjacent

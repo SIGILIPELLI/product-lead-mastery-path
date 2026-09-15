@@ -174,6 +174,10 @@ already been giving proximate, specific feedback for weeks, so the formal
 conversation is confirmation of a pattern the PM already recognizes, not a
 first-time ambush.
 
+## 🔀 Related lessons on other tracks
+
+- [Workday — 08 · Talent & Performance Management](https://sigilipelli.github.io/workday-mastery-path/level-2/08-talent-performance-management/)
+
 ## Exercise
 
 Pick two real people you manage (or two realistic PM profiles: one strong,

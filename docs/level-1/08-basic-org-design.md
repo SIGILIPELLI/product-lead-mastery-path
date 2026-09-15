@@ -80,6 +80,12 @@ authority to someone without the context, or context to someone without
 the authority — and no amount of process fixes that mismatch; only
 re-drawing the lines does.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+- [AI Manager — 02 · Org Design for AI-First Companies](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
+- [NodeMCU/IoT — Capstone — Production IoT Product Design](https://sigilipelli.github.io/nodemcu-mastery-path/level-4/10-capstone-production-iot-product/)
+
 ## Exercise
 
 Take a real or hypothetical product org of 4-6 PMs. Write down which of the

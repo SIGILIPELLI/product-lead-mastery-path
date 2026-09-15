@@ -178,6 +178,10 @@ conclusions ("do X"); cascades that survive are cascades of reasoning
 because reasoning re-derives correctly under local context in a way a
 flat instruction can't.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 01 · Product Strategy & Vision](https://sigilipelli.github.io/product-manager-mastery-path/level-3/01-product-strategy-vision/)
+
 ## Exercise
 
 Take your real company strategy (or a realistic one) and 3-4 squads.

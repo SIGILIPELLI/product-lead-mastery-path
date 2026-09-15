@@ -131,6 +131,10 @@ during it — because defending a nonstandard metric live, in the room where
 the mature product's numbers are already up on the same slide, is a losing
 argument almost every time.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 02 · Portfolio & Multi-Product Strategy](https://sigilipelli.github.io/product-manager-mastery-path/level-4/02-portfolio-multi-product-strategy/)
+
 ## Exercise
 
 Build a portfolio table for the product lines or major initiatives you

@@ -119,6 +119,10 @@ without a countervailing sampling mechanism, a Head of Product's picture of
 org health is systematically two quarters stale by the time a real problem
 surfaces through normal channels.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 01 · Leading Product Orgs](https://sigilipelli.github.io/product-manager-mastery-path/level-4/01-leading-product-orgs/)
+
 ## Exercise
 
 Pick a Product Lead (or, if you don't yet manage Leads, a senior PM you

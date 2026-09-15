@@ -103,6 +103,12 @@ are running an information-timing strategy as much as a communication-style
 strategy — the sequence in which a fact reaches the board matters at least
 as much as how it's phrased.
 
+## 🔀 Related lessons on other tracks
+
+- [Data Science — 07 · Cross-Functional Stakeholder Management](https://sigilipelli.github.io/data-science-mastery-path/level-4/07-stakeholder-management/)
+- [Project Manager — 07 · Stakeholder Management Basics](https://sigilipelli.github.io/project-manager-mastery-path/level-1/07-stakeholder-management-basics/)
+- [Servant Leadership — 06 · Board & Stakeholder Relations](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/06-board-stakeholder-relations/)
+
 ## Exercise
 
 If you have any exposure to board or senior-executive stakeholders, map

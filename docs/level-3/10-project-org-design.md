@@ -125,3 +125,9 @@ working.
   Marketplace hits its growth targets a year early and needs to split into
   two pods — re-run the span-of-control math and identify which existing
   Lead is the natural candidate to lead the split-off pod.
+
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+- [AI Manager — 02 · Org Design for AI-First Companies](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
+- [NodeMCU/IoT — Capstone — Production IoT Product Design](https://sigilipelli.github.io/nodemcu-mastery-path/level-4/10-capstone-production-iot-product/)

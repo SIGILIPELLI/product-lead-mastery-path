@@ -87,6 +87,10 @@ the chain, which increases the volume of the next quarter's escalations —
 a self-reinforcing bottleneck that looks like "just needing to hire another
 PM" when the actual fix is delegation infrastructure.
 
+## 🔀 Related lessons on other tracks
+
+- [Product Manager — 01 · Leading Product Orgs](https://sigilipelli.github.io/product-manager-mastery-path/level-4/01-leading-product-orgs/)
+
 ## Exercise
 
 Pick one real (or realistic) week from your current or a past role. List
