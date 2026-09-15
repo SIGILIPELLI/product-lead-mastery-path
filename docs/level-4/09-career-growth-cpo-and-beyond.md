@@ -1,3 +1,7 @@
+---
+description: "Career Growth: CPO and Beyond — A recruiter approaches Amara about a CEO role at a smaller logistics-tech company, and for the first time in her career…"
+---
+
 # Career Growth: CPO and Beyond
 
 A recruiter approaches Amara about a CEO role at a smaller logistics-tech

@@ -1,3 +1,7 @@
+---
+description: "VP/CPO-Level Strategy — A usable company-level product strategy has four layers, each constraining the one below it. Skipping straight to 'roadmap'…"
+---
+
 # VP/CPO-Level Strategy
 
 Amara is promoted to CPO eighteen months after the org-design project in

@@ -1,3 +1,7 @@
+---
+description: "Managing Up — Managing up has a reputation problem: it sounds like politics, so competent people avoid it and then wonder why their team's work keeps…"
+---
+
 # Managing Up
 
 Managing up has a reputation problem: it sounds like politics, so competent

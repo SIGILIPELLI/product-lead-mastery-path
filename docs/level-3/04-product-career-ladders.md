@@ -1,3 +1,7 @@
+---
+description: "Building Product Career Ladders — Meridian never had a written product career ladder — PMs got promoted when Amara noticed they deserved it, which worked…"
+---
+
 # Building Product Career Ladders
 
 Meridian never had a written product career ladder — PMs got promoted when

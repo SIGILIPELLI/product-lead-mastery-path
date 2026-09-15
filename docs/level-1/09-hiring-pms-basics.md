@@ -1,3 +1,7 @@
+---
+description: "Hiring PMs Basics — As a Product Lead, hiring is one of the highest-leverage things you do — a great hire compounds for years; a bad one costs you months…"
+---
+
 # 09 · Hiring PMs Basics
 
 As a Product Lead, hiring is one of the highest-leverage things you do — a

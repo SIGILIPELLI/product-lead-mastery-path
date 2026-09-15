@@ -1,3 +1,7 @@
+---
+description: "Platform vs Product Team Structures — Tom's Integrations pod has quietly become something other than a product pod. Every other pod at Meridian depends on…"
+---
+
 # Platform vs Product Team Structures
 
 Tom's Integrations pod has quietly become something other than a product

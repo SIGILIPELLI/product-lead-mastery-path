@@ -1,3 +1,7 @@
+---
+description: "Building Product Organizations from Scratch — Meridian acquires a controlling stake in a small European freight-matching company to establish a beachhead…"
+---
+
 # Building Product Organizations from Scratch
 
 Meridian acquires a controlling stake in a small European freight-matching

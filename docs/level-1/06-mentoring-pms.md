@@ -1,3 +1,7 @@
+---
+description: "Mentoring PMs — Mentoring is where the 'multiplying' idea from Module 2 becomes concrete — it's the mechanism by which your judgment becomes your team's…"
+---
+
 # 06 · Mentoring PMs
 
 Mentoring is where the "multiplying" idea from Module 2 becomes concrete —

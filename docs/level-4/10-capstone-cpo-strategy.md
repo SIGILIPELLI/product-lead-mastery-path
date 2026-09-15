@@ -1,3 +1,7 @@
+---
+description: "Capstone — Full CPO-Level Strategy Document — Amara decides to stay at Meridian and take the General Manager stretch assignment (Level 4 Module 9) while…"
+---
+
 # Capstone — Full CPO-Level Strategy Document
 
 Amara decides to stay at Meridian and take the General Manager stretch

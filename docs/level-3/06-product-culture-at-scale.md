@@ -1,3 +1,7 @@
+---
+description: "Product Culture & Rituals at Scale — When Meridian's product org was eight people, culture was whatever Amara modeled in the room — she showed up…"
+---
+
 # Product Culture & Rituals at Scale
 
 When Meridian's product org was eight people, culture was whatever Amara

@@ -1,3 +1,7 @@
+---
+description: "Basic Org Design for Product Teams — How you split up product work across squads shapes almost everything downstream — who talks to whom daily, where…"
+---
+
 # 08 · Basic Org Design for Product Teams
 
 How you split up product work across squads shapes almost everything

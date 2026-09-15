@@ -1,3 +1,7 @@
+---
+description: "Project — Product Team Charter & Rituals Plan — A single deliverable that combines everything from Level 1: your role clarity (Module 1), your team's…"
+---
+
 # 10 · Project — Product Team Charter & Rituals Plan
 
 A single deliverable that combines everything from Level 1: your role

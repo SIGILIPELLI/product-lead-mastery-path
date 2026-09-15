@@ -1,3 +1,7 @@
+---
+description: "Budget & Resourcing for Product Teams — Most Product Leads meet budget for the first time as a form to fill in, and treat it as an administrative tax on…"
+---
+
 # Budget & Resourcing for Product Teams
 
 Most Product Leads meet budget for the first time as a form to fill in, and

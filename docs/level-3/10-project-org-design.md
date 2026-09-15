@@ -1,3 +1,7 @@
+---
+description: "Project — Org Design for a 20+ Person Product Org — Meridian's product org has crossed 22 people (18 PMs plus Amara and the four other Leads counted…"
+---
+
 # Project — Org Design for a 20+ Person Product Org
 
 Meridian's product org has crossed 22 people (18 PMs plus Amara and the

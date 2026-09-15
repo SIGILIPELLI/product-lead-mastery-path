@@ -1,3 +1,7 @@
+---
+description: "AI-Native Product Organization Design — The AI-pricing exploration paused during the turnaround (Level 4 Module 3) gets resumed with real urgency: a…"
+---
+
 # AI-Native Product Organization Design
 
 The AI-pricing exploration paused during the turnaround (Level 4 Module 3)

@@ -1,3 +1,7 @@
+---
+description: "Managing Multiple Product Squads — One squad is a job you can do by being present. Three or four squads is a job you can only do by allocating presence …"
+---
+
 # Managing Multiple Product Squads
 
 One squad is a job you can do by being present. Three or four squads is a

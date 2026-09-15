@@ -1,3 +1,7 @@
+---
+description: "Advanced Product Team Leadership — At Level 1 you learned to lead a team when the direction was reasonably clear. Level 2 starts where that breaks: a…"
+---
+
 # Advanced Product Team Leadership
 
 At Level 1 you learned to lead a team when the direction was reasonably

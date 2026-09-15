@@ -1,3 +1,7 @@
+---
+description: "Board & Investor Relations for Product — As CPO, Amara now owns a direct relationship with Meridian's investors that goes beyond the quarterly board…"
+---
+
 # Board & Investor Relations for Product
 
 As CPO, Amara now owns a direct relationship with Meridian's investors that

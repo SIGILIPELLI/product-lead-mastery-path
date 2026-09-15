@@ -1,3 +1,7 @@
+---
+description: "Product Strategy Cascading — Somewhere between the exec offsite and your PM's sprint board, strategy usually dies. The deck said 'become the default…"
+---
+
 # Product Strategy Cascading
 
 Somewhere between the exec offsite and your PM's sprint board, strategy

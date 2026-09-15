@@ -1,3 +1,7 @@
+---
+description: "Leading a Product Team — The hardest part of becoming a Product Lead isn't learning something new — it's unlearning the instincts that made you a great IC…"
+---
+
 # 02 · Leading a Product Team
 
 The hardest part of becoming a Product Lead isn't learning something new —

@@ -1,3 +1,7 @@
+---
+description: "Performance Management for PMs — Performance management is the part of the job most Product Leads do badly, because it's the only part where the cost of…"
+---
+
 # Performance Management for PMs
 
 Performance management is the part of the job most Product Leads do badly,

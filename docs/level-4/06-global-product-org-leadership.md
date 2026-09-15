@@ -1,3 +1,7 @@
+---
+description: "Global Product Org Leadership — The European beachhead from Level 4 Module 2 succeeds, and eighteen months later Meridian has product teams in three time…"
+---
+
 # Global Product Org Leadership
 
 The European beachhead from Level 4 Module 2 succeeds, and eighteen months

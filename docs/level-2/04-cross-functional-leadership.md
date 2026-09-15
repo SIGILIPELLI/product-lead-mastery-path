@@ -1,3 +1,7 @@
+---
+description: "Cross-Functional Leadership — At Level 1, engineering and design were stakeholders you aligned with. At Level 2 they are peers — an engineering manager…"
+---
+
 # Cross-Functional Leadership
 
 At Level 1, engineering and design were stakeholders you aligned with. At

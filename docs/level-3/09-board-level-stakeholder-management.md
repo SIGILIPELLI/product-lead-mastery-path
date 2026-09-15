@@ -1,3 +1,7 @@
+---
+description: "Advanced Stakeholder Management (Board-Level) — Amara now attends Meridian's board meetings quarterly, presenting product strategy alongside CEO Lena.…"
+---
+
 # Advanced Stakeholder Management (Board-Level)
 
 Amara now attends Meridian's board meetings quarterly, presenting product

@@ -1,3 +1,7 @@
+---
+description: "Multi-Product Portfolio Leadership — Meridian Logistics now runs three distinct product lines under Amara: Core Carrier Ops (Ravi's and Tom's pods …"
+---
+
 # Multi-Product Portfolio Leadership
 
 Meridian Logistics now runs three distinct product lines under Amara: Core

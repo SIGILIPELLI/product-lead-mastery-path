@@ -1,3 +1,7 @@
+---
+description: "Product Leadership in Turnarounds — The distinction between 'cut' and 'pause' matters enormously for morale and for future optionality — a paused bet has…"
+---
+
 # Product Leadership in Turnarounds
 
 Eighteen months into Amara's CPO role, Meridian's biggest customer segment

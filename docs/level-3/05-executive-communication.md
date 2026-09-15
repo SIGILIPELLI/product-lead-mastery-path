@@ -1,3 +1,7 @@
+---
+description: "Advanced Executive Communication — Amara's first board-adjacent deck — a Marketplace update she prepared for CEO Lena to bring to the board — came back…"
+---
+
 # Advanced Executive Communication
 
 Amara's first board-adjacent deck — a Marketplace update she prepared for

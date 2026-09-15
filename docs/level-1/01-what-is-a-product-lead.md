@@ -1,3 +1,7 @@
+---
+description: "What Is a Product Lead? — 'Product Lead' is one of the fuzziest titles in tech — it can mean a senior IC PM with a fancy title, a first-line manager of…"
+---
+
 # 01 · What Is a Product Lead?
 
 "Product Lead" is one of the fuzziest titles in tech — it can mean a senior

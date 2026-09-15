@@ -1,3 +1,7 @@
+---
+description: "Delegating Product Decisions — The single biggest capacity constraint on a new Product Lead is themselves — specifically, their habit of staying the final…"
+---
+
 # 04 · Delegating Product Decisions
 
 The single biggest capacity constraint on a new Product Lead is themselves —

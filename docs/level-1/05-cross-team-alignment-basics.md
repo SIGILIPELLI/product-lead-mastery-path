@@ -1,3 +1,7 @@
+---
+description: "Cross-Team Alignment Basics — Once you lead more than one PM, misalignment stops being an occasional annoyance and becomes a structural risk: two squads…"
+---
+
 # 05 · Cross-Team Alignment Basics
 
 Once you lead more than one PM, misalignment stops being an occasional

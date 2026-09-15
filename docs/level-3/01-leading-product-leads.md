@@ -1,3 +1,7 @@
+---
+description: "Leading Product Leads (the Head of Product Role) — Amara has been VP Product at Meridian Logistics for three months. The job changed the day her five…"
+---
+
 # Leading Product Leads (the Head of Product Role)
 
 Amara has been VP Product at Meridian Logistics for three months. The job

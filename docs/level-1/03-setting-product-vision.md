@@ -1,3 +1,7 @@
+---
+description: "Setting Product Vision for a Team — An IC PM sets vision for a feature or product area. A Product Lead sets vision for a team — a shared narrative that…"
+---
+
 # 03 · Setting Product Vision for a Team
 
 An IC PM sets vision for a feature or product area. A Product Lead sets

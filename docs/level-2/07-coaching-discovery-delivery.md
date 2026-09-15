@@ -1,3 +1,7 @@
+---
+description: "Coaching PMs on Discovery & Delivery — The strongest pull on a Product Lead is to do the PM job better than the PM can, and to call that leadership. You…"
+---
+
 # Coaching PMs on Discovery & Delivery
 
 The strongest pull on a Product Lead is to do the PM job better than the PM

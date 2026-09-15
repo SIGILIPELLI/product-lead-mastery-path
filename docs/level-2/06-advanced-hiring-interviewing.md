@@ -1,3 +1,7 @@
+---
+description: "Advanced Hiring & Interviewing for Product — That inconsistency is expensive in a way that's easy to miss. A weak PM hire doesn't fail loudly in month…"
+---
+
 # Advanced Hiring & Interviewing for Product
 
 Level 1 taught you to run a hiring loop for one PM role that you personally

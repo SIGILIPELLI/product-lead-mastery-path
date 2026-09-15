@@ -1,3 +1,7 @@
+---
+description: "Org Design at Scale — Meridian's product org has grown from Amara's original four-squad team to eighteen PMs across five Leads in under two years. The org…"
+---
+
 # Org Design at Scale
 
 Meridian's product org has grown from Amara's original four-squad team to

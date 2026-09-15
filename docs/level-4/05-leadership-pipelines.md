@@ -1,3 +1,7 @@
+---
+description: "Building Product Leadership Pipelines — Amara realizes, two years into the CPO role, that Meridian has no answer to 'who becomes VP Product if you got hit…"
+---
+
 # Building Product Leadership Pipelines
 
 Amara realizes, two years into the CPO role, that Meridian has no answer to

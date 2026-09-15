@@ -1,3 +1,7 @@
+---
+description: "M&A Integration for Product Orgs — Meridian acquires RouteWise, a six-person startup with a route-optimization product that overlaps partially with Core…"
+---
+
 # M&A Integration for Product Orgs
 
 Meridian acquires RouteWise, a six-person startup with a route-optimization

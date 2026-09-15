@@ -1,3 +1,7 @@
+---
+description: "Running Effective Product Rituals — Rituals — standups, planning, reviews, retros — are the operating rhythm that keeps a product team aligned without you…"
+---
+
 # 07 · Running Effective Product Rituals
 
 Rituals — standups, planning, reviews, retros — are the operating rhythm

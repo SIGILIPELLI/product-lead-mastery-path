@@ -1,3 +1,7 @@
+---
+description: "Project — Hiring & Team-Scaling Plan — Everything in Level 2 converges here. A team-scaling plan is the document where your cascaded strategy (Module 5)…"
+---
+
 # Project — Hiring & Team-Scaling Plan
 
 Everything in Level 2 converges here. A team-scaling plan is the document

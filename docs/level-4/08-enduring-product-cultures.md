@@ -1,3 +1,7 @@
+---
+description: "Legacy: Building Enduring Product Cultures — Amara has now been CPO for over three years — long enough to start asking a question most product leaders…"
+---
+
 # Legacy: Building Enduring Product Cultures
 
 Amara has now been CPO for over three years — long enough to start asking
