@@ -37,4 +37,23 @@
     "url": "{{ page.canonical_url | default('https://sigilipelli.github.io/product-lead-mastery-path/') }}"
   }
   </script>
+  {% if page.meta and page.meta.description %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    "name": {{ (page.title | default('Product Lead Mastery Path lesson')) | tojson }},
+    "description": {{ page.meta.description | tojson }},
+    "url": {{ page.canonical_url | tojson }},
+    "isPartOf": {
+      "@type": "Course",
+      "name": "Product Lead Mastery Path",
+      "url": "https://sigilipelli.github.io/product-lead-mastery-path/"
+    },
+    "isAccessibleForFree": true,
+    "learningResourceType": "Lesson",
+    "inLanguage": "en"
+  }
+  </script>
+  {% endif %}
 {% endblock %}
