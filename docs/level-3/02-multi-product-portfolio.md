@@ -133,7 +133,7 @@ argument almost every time.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Manager — 02 · Portfolio & Multi-Product Strategy](https://sigilipelli.github.io/product-manager-mastery-path/level-4/02-portfolio-multi-product-strategy/)
+- [Product Manager — 02 · Portfolio & Multi-Product Strategy](https://learnmasterypath.com/product-manager-mastery-path/level-4/02-portfolio-multi-product-strategy/)
 
 ## Exercise
 

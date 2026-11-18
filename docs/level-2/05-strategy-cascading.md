@@ -180,7 +180,7 @@ flat instruction can't.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Manager — 01 · Product Strategy & Vision](https://sigilipelli.github.io/product-manager-mastery-path/level-3/01-product-strategy-vision/)
+- [Product Manager — 01 · Product Strategy & Vision](https://learnmasterypath.com/product-manager-mastery-path/level-3/01-product-strategy-vision/)
 
 ## Exercise
 

@@ -109,7 +109,7 @@ practice.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Manager — 04 · M&A and Product Integration](https://sigilipelli.github.io/product-manager-mastery-path/level-4/04-ma-and-product-integration/)
+- [Product Manager — 04 · M&A and Product Integration](https://learnmasterypath.com/product-manager-mastery-path/level-4/04-ma-and-product-integration/)
 
 ## Exercise
 

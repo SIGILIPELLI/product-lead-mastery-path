@@ -103,7 +103,7 @@ not.
 
 ## 🔀 Related lessons on other tracks
 
-- [Servant Leadership — 06 · Board & Stakeholder Relations](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/06-board-stakeholder-relations/)
+- [Servant Leadership — 06 · Board & Stakeholder Relations](https://learnmasterypath.com/servant-leadership-mastery-path/level-4/06-board-stakeholder-relations/)
 
 ## Exercise
 

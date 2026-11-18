@@ -112,8 +112,8 @@ newly-exposed limiting factor.
 
 ## 🔀 Related lessons on other tracks
 
-- [NodeMCU/IoT — Capstone — Production IoT Product Design](https://sigilipelli.github.io/nodemcu-mastery-path/level-4/10-capstone-production-iot-product/)
-- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+- [NodeMCU/IoT — Capstone — Production IoT Product Design](https://learnmasterypath.com/nodemcu-mastery-path/level-4/10-capstone-production-iot-product/)
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://learnmasterypath.com/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
 
 ## Exercise
 

@@ -176,7 +176,7 @@ first-time ambush.
 
 ## 🔀 Related lessons on other tracks
 
-- [Workday — 08 · Talent & Performance Management](https://sigilipelli.github.io/workday-mastery-path/level-2/08-talent-performance-management/)
+- [Workday — 08 · Talent & Performance Management](https://learnmasterypath.com/workday-mastery-path/level-2/08-talent-performance-management/)
 
 ## Exercise
 

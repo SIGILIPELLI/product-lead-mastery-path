@@ -128,6 +128,6 @@ working.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
-- [AI Manager — 02 · Org Design for AI-First Companies](https://sigilipelli.github.io/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
-- [NodeMCU/IoT — Capstone — Production IoT Product Design](https://sigilipelli.github.io/nodemcu-mastery-path/level-4/10-capstone-production-iot-product/)
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://learnmasterypath.com/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+- [AI Manager — 02 · Org Design for AI-First Companies](https://learnmasterypath.com/ai-manager-mastery-path/level-4/02-org-design-ai-first-companies/)
+- [NodeMCU/IoT — Capstone — Production IoT Product Design](https://learnmasterypath.com/nodemcu-mastery-path/level-4/10-capstone-production-iot-product/)

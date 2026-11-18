@@ -94,8 +94,8 @@ correctly.
 
 ## 🔀 Related lessons on other tracks
 
-- [Servant Leadership — 07 · Global Leadership Considerations](https://sigilipelli.github.io/servant-leadership-mastery-path/level-4/07-global-leadership-considerations/)
-- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://sigilipelli.github.io/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
+- [Servant Leadership — 07 · Global Leadership Considerations](https://learnmasterypath.com/servant-leadership-mastery-path/level-4/07-global-leadership-considerations/)
+- [Product Manager — 10 · Capstone — Full Product Strategy + Org Design](https://learnmasterypath.com/product-manager-mastery-path/level-4/10-capstone-strategy-org-design/)
 
 ## Exercise
 

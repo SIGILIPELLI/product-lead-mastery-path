@@ -89,7 +89,7 @@ PM" when the actual fix is delegation infrastructure.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Manager — 01 · Leading Product Orgs](https://sigilipelli.github.io/product-manager-mastery-path/level-4/01-leading-product-orgs/)
+- [Product Manager — 01 · Leading Product Orgs](https://learnmasterypath.com/product-manager-mastery-path/level-4/01-leading-product-orgs/)
 
 ## Exercise
 

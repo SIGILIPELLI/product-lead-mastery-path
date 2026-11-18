@@ -104,7 +104,7 @@ moment where the divergence looked like a decision.
 
 ## 🔀 Related lessons on other tracks
 
-- [Product Manager — 06 · Building Product Culture](https://sigilipelli.github.io/product-manager-mastery-path/level-4/06-building-product-culture/)
+- [Product Manager — 06 · Building Product Culture](https://learnmasterypath.com/product-manager-mastery-path/level-4/06-building-product-culture/)
 
 ## Exercise
 

@@ -5,12 +5,12 @@ Product Lead / Head of Product / Group PM level — entry level to master
 level, with real frameworks and templates in every module and a hands-on
 deliverable at the end of each level.
 
-**Live site:** https://sigilipelli.github.io/product-lead-mastery-path/
+**Live site:** https://learnmasterypath.com/product-lead-mastery-path/
 
 This track is about **leading** product teams and other PMs, not being an
 individual-contributor PM. For the IC PM skill set (discovery, roadmapping,
 specs, shipping), see the companion
-[Product Manager Mastery Path](https://sigilipelli.github.io/product-manager-mastery-path/).
+[Product Manager Mastery Path](https://learnmasterypath.com/product-manager-mastery-path/).
 
 ## Contents
 
@@ -39,7 +39,7 @@ python3 -m venv .venv
 
 ## Related
 
-- [Product Manager Mastery Path](https://sigilipelli.github.io/product-manager-mastery-path/) — the individual-contributor PM track
-- [Adobe Creative Cloud Mastery Path](https://sigilipelli.github.io/adobe-mastery-path/)
-- [Java Mastery Path](https://sigilipelli.github.io/java-mastery-path/)
-- [Python Mastery Path](https://sigilipelli.github.io/python-mastery-path/)
+- [Product Manager Mastery Path](https://learnmasterypath.com/product-manager-mastery-path/) — the individual-contributor PM track
+- [Adobe Creative Cloud Mastery Path](https://learnmasterypath.com/adobe-mastery-path/)
+- [Java Mastery Path](https://learnmasterypath.com/java-mastery-path/)
+- [Python Mastery Path](https://learnmasterypath.com/python-mastery-path/)

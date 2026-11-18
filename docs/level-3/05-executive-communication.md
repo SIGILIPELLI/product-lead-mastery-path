@@ -128,8 +128,8 @@ bad meeting could.
 
 ## 🔀 Related lessons on other tracks
 
-- [English Fluency & IELTS — 01 · Executive-Level Communication in English](https://sigilipelli.github.io/english-fluency-mastery-path/level-4/01-executive-level-communication/)
-- [Product Manager — 05 · Executive Communication & Board Reporting](https://sigilipelli.github.io/product-manager-mastery-path/level-4/05-executive-communication-board-reporting/)
+- [English Fluency & IELTS — 01 · Executive-Level Communication in English](https://learnmasterypath.com/english-fluency-mastery-path/level-4/01-executive-level-communication/)
+- [Product Manager — 05 · Executive Communication & Board Reporting](https://learnmasterypath.com/product-manager-mastery-path/level-4/05-executive-communication-board-reporting/)
 
 ## Exercise
 
