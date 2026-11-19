@@ -70,7 +70,7 @@ No tools or subscriptions — just a willingness to draft real documents (team
 charters, org charts, hiring plans, strategy memos) as you go. Every exercise
 produces something you could genuinely hand to your own team or manager.
 
-🎥 **Prefer video?** Watch the [Mastery Path video series](https://youtube.com/@learnmasterypath) on YouTube — Shorts and full walkthroughs of these lessons.
+🎥 **Prefer video?** Watch the [Mastery Path video series](https://youtube.com/@learnmasterypath) on YouTube — Shorts and full walkthroughs of these lessons. [▶ Subscribe free](https://www.youtube.com/@learnmasterypath?sub_confirmation=1)
 
 ## More from the Mastery Path series
 
