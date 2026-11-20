@@ -1,3 +1,7 @@
+---
+description: "Level 1 (Entry) of the free Product Lead Mastery Path. Make the jump from individual-contributor PM to leading a product team — set vision for a team…"
+---
+
 # Level 1 · Entry <span class="level-badge">Foundations</span>
 
 Goal: make the jump from individual-contributor PM to leading a product

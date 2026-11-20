@@ -1,3 +1,7 @@
+---
+description: "Level 2 (Intermediate) of the free Product Lead Mastery Path. Go from leading one team of PMs to leading multiple squads at once — manage performance…"
+---
+
 # Level 2 · Intermediate <span class="level-badge">Intermediate</span>
 
 Goal: go from leading one team of PMs to leading multiple squads at once — manage performance formally, lead across functions with engineering and design leads as peers, cascade company strategy down to team execution, hire and coach at a higher bar, manage up to executives, and own budget and resourcing for your team.

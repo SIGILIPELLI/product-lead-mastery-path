@@ -1,3 +1,7 @@
+---
+description: "Level 4 (Master) of the free Product Lead Mastery Path. Operate at VP/CPO level — set company-wide product strategy, build product organizations from…"
+---
+
 # Level 4 · Master <span class="level-badge">Master</span>
 
 Goal: operate at VP/CPO level — set company-wide product strategy, build product organizations from scratch, lead through turnarounds, manage board and investor relationships, build leadership pipelines, lead global orgs, design for an AI-native product org, and leave a lasting product culture behind you.

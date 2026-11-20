@@ -1,3 +1,7 @@
+---
+description: "Level 3 (Advanced) of the free Product Lead Mastery Path. Step into the Head of Product role — lead other Product Leads rather than individual PMs, own a…"
+---
+
 # Level 3 · Advanced <span class="level-badge">Advanced</span>
 
 Goal: step into the Head of Product role — lead other Product Leads rather than individual PMs, own a multi-product portfolio, design org structure at scale, build career ladders, communicate at the board level, and navigate M&A and platform-vs-product structural decisions.
