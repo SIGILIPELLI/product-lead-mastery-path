@@ -18,8 +18,3 @@ Goal: go from leading one team of PMs to leading multiple squads at once — man
 8. [Managing Up](08-managing-up.md)
 9. [Budget & Resourcing for Product Teams](09-budget-resourcing.md)
 10. [Project — Hiring & Team-Scaling Plan](10-project-hiring-scaling-plan.md)
-
-!!! info "Content status"
-    Level 2 module content is being written — every page below has its
-    scope defined and will be filled in next. [Level 1](../level-1/index.md)
-    is complete and is the prerequisite for everything here.
