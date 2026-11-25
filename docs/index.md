@@ -8,7 +8,7 @@ description: "Free product leadership course for leading product teams -- real f
 A structured, module-wise training program for **leading product teams** —
 taking you from your first stretch assignment managing other PMs all the way
 to CPO-level org design and strategy — with real frameworks, templates, and a
-hands-on deliverable at the end of each level.
+hands-on deliverable at the end of Levels 1–3 and a capstone at the end of Level 4.
 
 !!! info "This track is about leading product people, not being one"
     This site is for **Product Leads, Heads of Product, Group PMs, and
@@ -36,8 +36,7 @@ hands-on deliverable at the end of each level.
   worked structure, not code) plus a concrete worked example.
 - Each topic ends with an **Exercise** — a practical deliverable you produce,
   not just a quiz.
-- Each level ends with a project that combines everything learned in that
-  level into one real artifact: a team charter, a hiring plan, an org design,
+- Levels 1–3 each end with a project that combines everything learned in that level into one real artifact: a team charter, a hiring plan, an org design,
   or a full strategy document.
 - Use the search bar (top of the page) to jump straight to a topic.
 
